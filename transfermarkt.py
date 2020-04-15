@@ -7,25 +7,28 @@ Created on Wed Apr 15 11:50:47 2020
 
 from bs4 import BeautifulSoup
 import pandas as pd
-from selenium.common.exceptions import NoSuchElementException, ElementClickInterceptedException
+from selenium.common.exceptions import NoSuchElementException
 from selenium import webdriver
 import time
 
-def get_players(url, top):
+def get_players(comp, top):
     if top < 0:
-        top = 10
+        top = 100
 
     options = webdriver.ChromeOptions()
     driver = webdriver.Chrome(executable_path='D:/Projects/ds_first_football/chromedriver.exe', options=options)
-    driver.set_window_size(1120, 1000)
 
-    url = "https://www.transfermarkt.com/transfers/neuestetransfers/statistik/plus/?plus=1&wettbewerb_id=NL1&land_id=&minMarktwert=0&maxMarktwert=200.000.000"
+    url = "https://www.transfermarkt.com/transfers/neuestetransfers/statistik/plus/?plus=1&wettbewerb_id="
+    url += comp
+    url += "&land_id=&minMarktwert=0&maxMarktwert=200.000.000"
 
     driver.get(url)
+    
+    time.sleep(15)
 
     players = []
     while len(players) < top:
-        time.sleep(15)
+        time.sleep(3)
 
         soup = BeautifulSoup(driver.page_source, 'html.parser')
         playerRows = soup.find("table",  class_='items').find("tbody").find_all("tr", recursive=False)
@@ -59,7 +62,11 @@ def get_players(url, top):
             
             fromTeam = fromTeamRows[0].find('td', class_='hauptlink').find('a').get_text()
             if fromTeam.lower() != 'without club':
-                fromCompetition = fromTeamRows[1].find('a').get_text()
+                teamRowAnchorTag = fromTeamRows[1].find('a')
+                if teamRowAnchorTag == None:
+                    fromCompetition = fromTeamRows[1].find('td').get_text()
+                else:
+                    fromCompetition = teamRowAnchorTag.get_text()
             else:
                 fromCompetition = 'None'
             
@@ -74,7 +81,11 @@ def get_players(url, top):
             
             toTeam = toTeamRows[0].find('td', class_='hauptlink').find('a').get_text()
             if toTeam.lower() != 'without club':
-                toCompetition = toTeamRows[1].find('a').get_text()
+                teamRowAnchorTag = toTeamRows[1].find('a')
+                if teamRowAnchorTag == None:
+                    toCompetition = toTeamRows[1].find('td').get_text()
+                else:
+                    toCompetition = teamRowAnchorTag.get_text()
             else:
                 toCompetition = 'None'
             
@@ -103,8 +114,6 @@ def get_players(url, top):
             
             if len(players) >= top:
                 break
-        
-        print('trying next page')
 
         try:
             driver.find_element_by_xpath('.//li[@class="naechste-seite"]//a').click()
