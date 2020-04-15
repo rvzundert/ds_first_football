@@ -1,0 +1,314 @@
+player_id,player_name,player_position,player_age,player_nat,from_team,to_team,market_value,transfer_fee,season
+241324,Bilal Ould-Chikh,Right Winger,22,Netherlands,ADO Den Haag,Denizlispor,€100k,Free transfer,2019/2020
+587335,Milan van Ewijk,Right-Back,18,Netherlands,ADO Den Haag,Excelsior M,-,Free transfer,2019/2020
+56523,Michiel Kramer,Centre-Forward,30,Netherlands,ADO Den Haag,FC Utrecht,€800k,Free transfer,2019/2020
+433976,Tudor Baluta,Defensive Midfield,20,Romania,ADO Den Haag,Brighton,€4.00m,Loan,2019/2020
+425872,Sam Stubbs,Centre-Back,21,England,ADO Den Haag,Boro U23,€150k,Loan,2019/2020
+189053,Mick van Buren,Right Winger,27,Netherlands,ADO Den Haag,Slavia Prague,€900k,Loan,2019/2020
+134657,Omar Bogle,Centre-Forward,27,England,ADO Den Haag,Cardiff,€750k,Loan,2019/2020
+474701,Crysencio Summerville,Right Winger,17,Netherlands,ADO Den Haag,Feyenoord U19,€350k,Loan,2019/2020
+110668,Laurens De Bock,Left-Back,27,Belgium,ADO Den Haag,Leeds,€1.00m,Loan,2019/2020
+223849,Pawel Cibicki,Left Winger,25,Sweden,ADO Den Haag,Leeds,€900k,Loan,2019/2020
+298240,George Thomas,Attacking Midfield,22,Wales,ADO Den Haag,Leicester,€250k,Loan,2019/2020
+105565,Mark Duffy,Right Midfield,34,England,ADO Den Haag,Sheffield Utd.,€500k,Loan,2019/2020
+235108,Luuk Koopmans,Goalkeeper,25,Netherlands,ADO Den Haag,PSV Eindhoven,€350k,Loan,2019/2020
+273004,Aleksandar Bjelica,Centre-Back,25,Serbia,ADO Den Haag,Korona Kielce,€350k,Loan,2019/2020
+412951,Lorenzo van Kleef,Central Midfield,18,Netherlands,ADO Den Haag,ADO U19,-,-,2019/2020
+61588,Jordan Spence,Right-Back,29,England,ADO Den Haag,Without Club,€500k,-,2019/2020
+178219,Thom Haye,Central Midfield,24,Netherlands,ADO Den Haag,Without Club,€600k,-,2019/2020
+453525,Dehninio Muringen,Centre-Back,20,Netherlands,ADO Den Haag,ADO U21,-,-,2019/2020
+339323,Hennos Asmelash,Right-Back,19,Netherlands,ADO Den Haag,TOP Oss,€250k,"End of loanJun 30, 2019",2019/2020
+159032,Nick Kuipers,Centre-Back,26,Netherlands,ADO Den Haag,FC Emmen,€450k,"End of loanJun 30, 2019",2019/2020
+435088,Delano Ladan,Centre-Forward,19,Netherlands,ADO Den Haag,TOP Oss,€175k,"End of loanJun 30, 2019",2019/2020
+182381,Quincy Promes,Left Winger,27,Netherlands,Ajax Amsterdam,Sevilla FC,€18.00m,€15.70m,2019/2020
+401356,Edson Álvarez,Centre-Back,21,Mexico,Ajax Amsterdam,América,€7.50m,€15.00m,2019/2020
+295183,Razvan Marin,Central Midfield,23,Romania,Ajax Amsterdam,Standard Liège,€13.50m,€12.50m,2019/2020
+480762,Lisandro Martínez,Centre-Back,21,Argentina,Ajax Amsterdam,Defensa,€6.00m,€7.00m,2019/2020
+361207,Kik Pierie,Centre-Back,18,Netherlands,Ajax Amsterdam,Heerenveen,€4.00m,€5.00m,2019/2020
+16135,Ryan Babel,Left Winger,33,Netherlands,Ajax Amsterdam,Galatasaray,€4.00m,Loan fee:€1.55m,2019/2020
+463527,Kjell Scherpen,Goalkeeper,19,Netherlands,Ajax Amsterdam,FC Emmen,€1.50m,€1.50m,2019/2020
+182722,Bruno Varela,Goalkeeper,24,Portugal,Ajax Amsterdam,Benfica,€3.00m,Loan fee:€1.00m,2019/2020
+370997,Dominik Kotarski,Goalkeeper,19,Croatia,Ajax Amsterdam,Ajax U21,€250k,-,2019/2020
+361068,Jurgen Ekkelenkamp,Attacking Midfield,19,Netherlands,Ajax Amsterdam,Ajax U21,€1.50m,-,2019/2020
+551695,Lassina Traoré,Centre-Forward,18,Burkina Faso,Ajax Amsterdam,Ajax U21,€300k,-,2019/2020
+361104,Sergiño Dest,Right-Back,18,United States,Ajax Amsterdam,Ajax U21,€600k,-,2019/2020
+331057,Luis Manuel Orejuela,Right-Back,24,Colombia,Ajax Amsterdam,Cruzeiro,€1.50m,"End of loanDec 31, 2019",2019/2020
+478573,Ryan Gravenberch,Central Midfield,17,Netherlands,Ajax Amsterdam,Ajax U21,€5.00m,-,2019/2020
+339332,Noa Lang,Left Winger,20,Netherlands,Ajax Amsterdam,Ajax U21,€1.00m,-,2019/2020
+45509,Siem de Jong,Attacking Midfield,30,Netherlands,Ajax Amsterdam,Sydney FC,€2.00m,"End of loanJun 30, 2019",2019/2020
+362667,Mateo Cassierra,Centre-Forward,22,Colombia,Ajax Amsterdam,Racing Club,€2.50m,"End of loanJun 30, 2019",2019/2020
+263361,Maximilian Wöber,Centre-Back,21,Austria,Ajax Amsterdam,Sevilla FC,€10.00m,"End of loanJun 30, 2019",2019/2020
+123520,Benjamin van Leer,Goalkeeper,27,Netherlands,Ajax Amsterdam,NAC Breda,€900k,"End of loanJun 30, 2019",2019/2020
+394688,Hakon Evjen,Central Midfield,19,Norway,AZ Alkmaar,Bodø/Glimt,€2.50m,€2.50m,2019/2020
+340459,Dani de Wit,Attacking Midfield,21,Netherlands,AZ Alkmaar,Ajax,€1.00m,€2.00m,2019/2020
+393238,Zakaria Aboukhlal,Right Winger,19,Netherlands,AZ Alkmaar,PSV U21,€600k,€2.00m,2019/2020
+104223,Jordy Clasie,Defensive Midfield,28,Netherlands,AZ Alkmaar,Southampton,€5.50m,Free transfer,2019/2020
+60317,Ramon Leeuwin,Centre-Back,32,Netherlands,AZ Alkmaar,Odense BK,€500k,?,2019/2020
+405385,Yukinari Sugawara,Right-Back,19,Japan,AZ Alkmaar,Nagoya Grampus,€250k,Loan,2019/2020
+250686,Björn Johnsen,Centre-Forward,28,Norway,AZ Alkmaar,Rosenborg BK,€1.50m,"End of loanDec 31, 2019",2019/2020
+412943,Kenzo Goudmijn,Central Midfield,17,Netherlands,AZ Alkmaar,AZ Alkmaar U19,€250k,-,2019/2020
+360519,Ferdy Druijf,Centre-Forward,21,Netherlands,AZ Alkmaar,AZ Alkmaar U21,€600k,-,2019/2020
+326329,Joris Kramer,Centre-Back,22,Netherlands,AZ Alkmaar,AZ Alkmaar U21,€200k,-,2019/2020
+282783,Fred Friday,Centre-Forward,24,Nigeria,AZ Alkmaar,FC Twente,€350k,"End of loanJun 30, 2019",2019/2020
+160431,Iliass Bel Hassani,Attacking Midfield,26,Netherlands,AZ Alkmaar,FC Groningen,€800k,"End of loanJun 30, 2019",2019/2020
+215094,Nick Olij,Goalkeeper,23,Netherlands,AZ Alkmaar,TOP Oss,€500k,"End of loanJun 30, 2019",2019/2020
+59594,Marko Vejinović,Defensive Midfield,29,Netherlands,AZ Alkmaar,Arka Gdynia,€1.50m,"End of loanJun 30, 2019",2019/2020
+205924,Marko Kolar,Centre-Forward,24,Croatia,FC Emmen,Wisla Kraków,€300k,€500k,2019/2020
+223405,Hilal Ben Moussa,Central Midfield,27,Netherlands,FC Emmen,Sepsi Sf. Gh.,€250k,Free transfer,2019/2020
+224672,Sergio Peña,Attacking Midfield,23,Peru,FC Emmen,Granada CF,€700k,Free transfer,2019/2020
+211420,Miguel Araujo,Centre-Back,24,Peru,FC Emmen,Without Club,€850k,Free transfer,2019/2020
+124866,Lorenzo Burnet,Left-Back,28,Netherlands,FC Emmen,Excelsior,€350k,Free transfer,2019/2020
+62064,Tom Hiariej,Defensive Midfield,30,Netherlands,FC Emmen,Central Coast,€350k,Free transfer,2019/2020
+104267,Matthias Hamrol,Goalkeeper,25,Germany,FC Emmen,Korona Kielce,€400k,Free transfer,2019/2020
+187298,Luciano Slagveer,Right Winger,25,Netherlands,FC Emmen,KSC Lokeren,€500k,Free transfer,2019/2020
+120050,Ferhat Görgülü,Centre-Back,27,Netherlands,FC Emmen,Giresunspor,€50k,Free transfer,2019/2020
+584092,Leon Sopic,Centre-Back,18,Croatia,FC Emmen,NK Rudes U19,-,Free transfer,2019/2020
+273570,Desevio Payne,Right-Back,23,United States,FC Emmen,Excelsior,€100k,Free transfer,2019/2020
+255748,Michaël Heylen,Centre-Back,25,Belgium,FC Emmen,Zulte Waregem,€600k,Free transfer,2019/2020
+290555,Nikolai Laursen,Centre-Forward,21,Denmark,FC Emmen,PSV U21,€300k,?,2019/2020
+365544,Pontus Dahlberg,Goalkeeper,21,Sweden,FC Emmen,Watford,€1.00m,Loan,2019/2020
+146844,Kerim Frei,Left Winger,26,Turkey,FC Emmen,Basaksehir,€650k,Loan,2019/2020
+423609,Luka Adzic,Left Winger,21,Serbia,FC Emmen,RSC Anderlecht,€1.00m,Loan,2019/2020
+184381,Shani Tarashaj,Second Striker,24,Switzerland,FC Emmen,Everton,€500k,Loan,2019/2020
+342967,Jan-Niklas Beste,Left-Back,20,Germany,FC Emmen,Werder Bremen,€500k,Loan,2019/2020
+538921,Freddy Quispel,Centre-Forward,18,Netherlands,FC Emmen,Emmen U19,-,-,2019/2020
+187300,Stefan van der Lei,Goalkeeper,26,Netherlands,FC Emmen,Without Club,€150k,-,2019/2020
+463526,Robin Jalving,Goalkeeper,19,Netherlands,FC Emmen,Emmen U19,-,-,2019/2020
+394236,Filip Ugrinic,Central Midfield,20,Switzerland,FC Emmen,FC Luzern,€750k,Loan,2019/2020
+538963,Ruben Roosken,Left-Back,19,Netherlands,FC Emmen,Emmen U19,-,-,2019/2020
+469781,Marcos Senesi,Centre-Back,22,Argentina,Feyenoord Rotterdam,San Lorenzo,€7.00m,€7.00m,2019/2020
+454576,Robert Bozenik,Centre-Forward,20,Slovakia,Feyenoord Rotterdam,MSK Zilina,€1.00m,€4.00m,2019/2020
+318549,George Johnston,Centre-Back,20,Scotland,Feyenoord Rotterdam,Liverpool U23,-,€300k,2019/2020
+158104,Nick Marsman,Goalkeeper,28,Netherlands,Feyenoord Rotterdam,FC Utrecht,€650k,Free transfer,2019/2020
+63342,Leroy Fer,Central Midfield,29,Netherlands,Feyenoord Rotterdam,Swansea,€6.00m,Free transfer,2019/2020
+252986,Liam Kelly,Central Midfield,23,Ireland,Feyenoord Rotterdam,Reading,€1.00m,Free transfer,2019/2020
+72462,Luciano Narsingh,Right Winger,28,Netherlands,Feyenoord Rotterdam,Swansea,€2.50m,Free transfer,2019/2020
+77966,Oguzhan Özyakup,Central Midfield,27,Turkey,Feyenoord Rotterdam,Besiktas,€2.20m,Loan,2019/2020
+191987,Edgar Ié,Centre-Back,25,Portugal,Feyenoord Rotterdam,Trabzonspor,€3.50m,Loan,2019/2020
+205006,Rick Karsdorp,Right-Back,24,Netherlands,Feyenoord Rotterdam,AS Roma,€7.00m,Loan,2019/2020
+387241,Ramón ten Hove,Goalkeeper,21,Netherlands,Feyenoord Rotterdam,FC Dordrecht,€200k,"End of loanJan 2, 2020",2019/2020
+361122,Achraf El Bouchataoui,Central Midfield,19,Netherlands,Feyenoord Rotterdam,Feyenoord U21,-,-,2019/2020
+424328,Elber Evora,Goalkeeper,19,Cape Verde,Feyenoord Rotterdam,Feyenoord U21,-,-,2019/2020
+276002,Emil Hansson,Left Winger,21,Sweden,Feyenoord Rotterdam,RKC Waalwijk,€600k,"End of loanJun 30, 2019",2019/2020
+384587,Mo El Hankouri,Left Winger,21,Morocco,Feyenoord Rotterdam,FC Groningen,€500k,"End of loanJun 30, 2019",2019/2020
+277137,Renato Tapia,Defensive Midfield,23,Peru,Feyenoord Rotterdam,Willem II,€3.00m,"End of loanJun 30, 2019",2019/2020
+409515,Adnan Ugur,Central Midfield,18,Belgium,Fortuna Sittard,Brugge Res.,-,Free transfer,2019/2020
+553217,Jacky Donkor,Left Winger,20,Belgium,Fortuna Sittard,KSC Lokeren II,-,Free transfer,2019/2020
+397497,Patrik Raitanen,Centre-Back,18,Finland,Fortuna Sittard,Liverpool U18,€25k,Free transfer,2019/2020
+182879,Grégoire Amiot,Centre-Back,24,France,Fortuna Sittard,Bourg-en-Bresse,€300k,Free transfer,2019/2020
+406924,Bassala Sambou,Centre-Forward,21,Germany,Fortuna Sittard,Everton U23,-,Free transfer,2019/2020
+661150,Carlos Faya,Central Midfield,18,Venezuela,Fortuna Sittard,APC U20,-,Loan,2019/2020
+339335,Leandro Fernandes,Central Midfield,19,Netherlands,Fortuna Sittard,Juventus U23,€175k,Loan,2019/2020
+262389,Àlex Carbonell,Central Midfield,21,Spain,Fortuna Sittard,Valencia,€400k,Loan,2019/2020
+319300,Cian Harries,Centre-Back,22,Wales,Fortuna Sittard,Swansea,€250k,Loan,2019/2020
+483916,Lazaros Rota,Right-Back,22,Greece,Fortuna Sittard,Michalovce,€300k,?,2019/2020
+274461,Felix Passlack,Right-Back,21,Germany,Fortuna Sittard,Bor. Dortmund,€1.50m,Loan,2019/2020
+354136,Vitalie Damascan,Centre-Forward,20,Moldova,Fortuna Sittard,Torino,€1.00m,Loan,2019/2020
+122695,Martin Angha,Centre-Back,25,Switzerland,Fortuna Sittard,FC Sion,€700k,?,2019/2020
+400550,Nikolai Frederiksen,Right Winger,19,Denmark,Fortuna Sittard,Juventus U23,€250k,Loan,2019/2020
+359692,George Cox,Left-Back,21,England,Fortuna Sittard,Brighton U23,-,Loan,2019/2020
+273383,Rasmus Karjalainen,Centre-Forward,23,Finland,Fortuna Sittard,KuPS,€350k,?,2019/2020
+562275,Nassim el Ablak,Attacking Midfield,19,Netherlands,Fortuna Sittard,Fortuna U19,-,-,2019/2020
+283185,Tesfaldet Tekie,Central Midfield,22,Sweden,Fortuna Sittard,Without Club,€800k,-,2019/2020
+565673,Dimitrios Ioannidis,Central Midfield,19,Germany,Fortuna Sittard,Fortuna U19,-,-,2019/2020
+205569,Mickaël Malsa,Defensive Midfield,23,Martinique,Fortuna Sittard,Albacete,€400k,"End of loanJun 30, 2019",2019/2020
+432672,Bo Breukers,Central Midfield,20,Netherlands,Fortuna Sittard,FC Dordrecht,€100k,"End of loanJun 30, 2019",2019/2020
+238084,Ramon Pascal Lundqvist,Attacking Midfield,22,Sweden,FC Groningen,NAC Breda,€600k,€150k,2019/2020
+384587,Mo El Hankouri,Left Winger,22,Morocco,FC Groningen,Feyenoord,€500k,Free transfer,2019/2020
+57328,Bart van Hintum,Left-Back,32,Netherlands,FC Groningen,Heracles Almelo,€400k,Free transfer,2019/2020
+43249,Marco van Duin,Goalkeeper,32,Netherlands,FC Groningen,NEC Nijmegen,€75k,Free transfer,2019/2020
+426142,Jan de Boer,Goalkeeper,19,Netherlands,FC Groningen,Heerenveen U19,-,Free transfer,2019/2020
+66783,Charlison Benschop,Centre-Forward,29,Curacao,FC Groningen,FC Ingolstadt,€500k,Free transfer,2019/2020
+361514,Görkem Can,Centre-Back,19,Turkey,FC Groningen,Schalke 04 II,€50k,?,2019/2020
+375391,Joel Asoro,Centre-Forward,20,Sweden,FC Groningen,Swansea,€2.00m,Loan,2019/2020
+303939,Ahmed El Messaoudi,Defensive Midfield,24,Morocco,FC Groningen,KV Mechelen,€1.00m,?,2019/2020
+362108,Gabriel Gudmundsson,Right Winger,20,Sweden,FC Groningen,Halmstad,€300k,?,2019/2020
+335100,Sam Schreck,Attacking Midfield,20,Germany,FC Groningen,Bay. Leverkusen,€400k,?,2019/2020
+345589,Nicklas Strunck Jakobsen,Central Midfield,19,Denmark,FC Groningen,Nordsjaelland,€600k,?,2019/2020
+361081,Daishawn Redan,Centre-Forward,18,Netherlands,FC Groningen,Hertha BSC,€4.00m,Loan,2019/2020
+315145,Azor Matusiwa,Defensive Midfield,21,Netherlands,FC Groningen,Ajax U21,€1.00m,?,2019/2020
+513330,Romano Postema,Centre-Forward,17,Netherlands,FC Groningen,Groningen U19,€200k,-,2019/2020
+288432,Jannik Pohl,Centre-Forward,23,Denmark,FC Groningen,AC Horsens,€300k,"End of loanDec 31, 2019",2019/2020
+377720,Daniël van Kaam,Attacking Midfield,19,Netherlands,FC Groningen,Groningen U21,€200k,-,2019/2020
+538964,Thijs Dallinga,Centre-Forward,18,Netherlands,FC Groningen,Groningen U21,€25k,-,2019/2020
+490511,Tapmahoe Sopacua,Right-Back,19,Netherlands,FC Groningen,Groningen U21,-,-,2019/2020
+332973,Ahmad Mendes Moreira,Left Winger,24,Netherlands,FC Groningen,Telstar,€300k,"End of loanJun 30, 2019",2019/2020
+500067,Chidera Ejuke,Left Winger,21,Nigeria,SC Heerenveen,Vålerenga,€400k,€2.00m,2019/2020
+408574,Joey Veerman,Defensive Midfield,20,Netherlands,SC Heerenveen,FC Volendam,€350k,€550k,2019/2020
+257808,Runar Espejord,Centre-Forward,23,Norway,SC Heerenveen,Tromsø IL,€400k,€500k,2019/2020
+124883,Ricardo van Rhijn,Right-Back,28,Netherlands,SC Heerenveen,AZ Alkmaar,€1.00m,Free transfer,2019/2020
+345590,Jens Odgaard,Centre-Forward,20,Denmark,SC Heerenveen,Sassuolo,€1.80m,Loan,2019/2020
+228572,Hicham Faik,Defensive Midfield,27,Netherlands,SC Heerenveen,Zulte Waregem,€800k,?,2019/2020
+342389,Anders Dreyer,Right Winger,21,Denmark,SC Heerenveen,Brighton,€600k,Loan,2019/2020
+226074,Alen Halilovic,Attacking Midfield,23,Croatia,SC Heerenveen,AC Milan,€2.00m,Loan,2019/2020
+484362,Van Hau Doan,Left-Back,20,Vietnam,SC Heerenveen,Ha Noi FC,€150k,Loan,2019/2020
+371856,Vanja Drkusic,Centre-Back,19,Slovenia,SC Heerenveen,Heerenveen U21,-,-,2019/2020
+440531,Jan Ras,Central Midfield,20,Netherlands,SC Heerenveen,Heerenveen U21,-,-,2019/2020
+361093,Sven Botman,Centre-Back,19,Netherlands,SC Heerenveen,Ajax U21,€300k,Loan,2019/2020
+593415,Rami Hajal,Attacking Midfield,17,Sweden,SC Heerenveen,Heerenveen U19,-,-,2019/2020
+590773,Hamdi Akujobi,Defensive Midfield,19,Netherlands,SC Heerenveen,Heerenveen U19,-,-,2019/2020
+462087,Arjen van der Heide,Left Winger,17,Netherlands,SC Heerenveen,Heerenveen U19,-,-,2019/2020
+241378,Jordy Bruijn,Central Midfield,22,Netherlands,SC Heerenveen,NEC Nijmegen,€300k,"End of loanJun 30, 2019",2019/2020
+323602,Lucas Schoofs,Defensive Midfield,22,Belgium,Heracles Almelo,KAA Gent,€250k,Free transfer,2019/2020
+404705,Adrian Szöke,Attacking Midfield,21,Hungary,Heracles Almelo,1.FC Köln II,€75k,Free transfer,2019/2020
+436585,Delano Burgzorg,Left Winger,21,Netherlands,Heracles Almelo,Spezia Calcio,€600k,Loan,2019/2020
+337243,Orestis Kiomourtzoglou,Defensive Midfield,21,Germany,Heracles Almelo,Unterhaching,€300k,?,2019/2020
+323910,Mauro Júnior,Attacking Midfield,20,Brazil,Heracles Almelo,PSV Eindhoven,€2.00m,Loan,2019/2020
+339330,Navajo Bakboord,Right-Back,20,Netherlands,Heracles Almelo,Ajax U21,€250k,?,2019/2020
+446247,Jeremy Cijntje,Left Winger,21,Curacao,Heracles Almelo,FC Dordrecht,€300k,?,2019/2020
+458777,Giacomo Quagliata,Left-Back,19,Italy,Heracles Almelo,Pro Vercelli,€125k,?,2019/2020
+324111,Teun Bijleveld,Central Midfield,21,Netherlands,Heracles Almelo,Ajax U21,€300k,?,2019/2020
+317806,Cyriel Dessers,Centre-Forward,24,Nigeria,Heracles Almelo,FC Utrecht,€1.00m,?,2019/2020
+443308,Reuven Niemeijer,Central Midfield,24,Netherlands,Heracles Almelo,FC Emmen,€700k,"End of loanJun 30, 2019",2019/2020
+273054,Vincent Vermeij,Centre-Forward,24,Netherlands,Heracles Almelo,FC Den Bosch,€900k,"End of loanJun 30, 2019",2019/2020
+288426,Xavier Mous,Goalkeeper,23,Netherlands,PEC Zwolle,SC Cambuur,€400k,€600k,2019/2020
+430797,Sam Kersten,Centre-Back,21,Netherlands,PEC Zwolle,FC Den Bosch,€500k,€400k,2019/2020
+247596,Kenneth Paal,Left-Back,22,Netherlands,PEC Zwolle,PSV Eindhoven,€900k,€350k,2019/2020
+172779,Sai van Wermeskerken,Right-Back,25,Japan,PEC Zwolle,SC Cambuur,€350k,Free transfer,2019/2020
+39522,Reza Ghoochannejhad,Centre-Forward,31,Iran,PEC Zwolle,APOEL Nicosia,€1.00m,Free transfer,2019/2020
+56611,Etiënne Reijnen,Centre-Back,32,Netherlands,PEC Zwolle,Maccabi Haifa,€400k,Free transfer,2019/2020
+166959,Mustafa Saymak,Attacking Midfield,26,Netherlands,PEC Zwolle,C. Rizespor,€900k,Free transfer,2019/2020
+94768,Rico Strieder,Defensive Midfield,27,Germany,PEC Zwolle,FC Utrecht,€1.00m,Loan,2019/2020
+160431,Iliass Bel Hassani,Attacking Midfield,26,Netherlands,PEC Zwolle,AZ Alkmaar,€800k,?,2019/2020
+196813,Michael Zetterer,Goalkeeper,23,Germany,PEC Zwolle,Werder Bremen,€350k,Loan,2019/2020
+406042,Dennis Johnsen,Left Winger,21,Norway,PEC Zwolle,Ajax U21,€1.00m,Loan,2019/2020
+172202,Thomas Bruns,Attacking Midfield,27,Netherlands,PEC Zwolle,Vitesse,€900k,Loan,2019/2020
+530258,Dean Huiberts,Central Midfield,19,Netherlands,PEC Zwolle,PEC Zwolle U21,-,-,2019/2020
+182554,Anass Achahbar,Centre-Forward,25,Netherlands,PEC Zwolle,NEC Nijmegen,€350k,"End of loanJun 30, 2019",2019/2020
+297373,Mike Hauptmeijer,Goalkeeper,22,Netherlands,PEC Zwolle,Achilles '29,€100k,"End of loanJun 30, 2019",2019/2020
+111185,Ruben Ligeon,Right-Back,27,Netherlands,PEC Zwolle,De Graafschap,€200k,"End of loanJun 30, 2019",2019/2020
+139396,Bruma,Left Winger,24,Portugal,PSV Eindhoven,RB Leipzig,€10.00m,€15.00m,2019/2020
+187491,Timo Baumgartl,Centre-Back,23,Germany,PSV Eindhoven,VfB Stuttgart,€9.00m,€10.00m,2019/2020
+358504,Ritsu Doan,Right Winger,21,Japan,PSV Eindhoven,FC Groningen,€10.00m,€7.50m,2019/2020
+318508,Olivier Boscagli,Left-Back,21,France,PSV Eindhoven,OGC Nice,€3.00m,€2.00m,2019/2020
+34944,Konstantinos Mitroglou,Centre-Forward,31,Greece,PSV Eindhoven,Galatasaray,€7.00m,Loan fee:€1.25m,2019/2020
+86784,Ricardo Rodríguez,Left-Back,27,Switzerland,PSV Eindhoven,AC Milan,€10.00m,Loan fee:€1.00m,2019/2020
+81775,Robbin Ruiter,Goalkeeper,32,Netherlands,PSV Eindhoven,Sunderland,€2.00m,Free transfer,2019/2020
+320271,Toni Lato,Left-Back,21,Spain,PSV Eindhoven,Valencia,€5.00m,Loan,2019/2020
+15760,Ibrahim Afellay,Left Midfield,33,Netherlands,PSV Eindhoven,Without Club,€1.50m,-,2019/2020
+503987,Noni Madueke,Right Winger,18,England,PSV Eindhoven,PSV U21,€5.00m,-,2019/2020
+364245,Jordan Teze,Right-Back,20,Netherlands,PSV Eindhoven,PSV U21,€500k,-,2019/2020
+53696,Lars Unnerstall,Goalkeeper,28,Germany,PSV Eindhoven,VVV-Venlo,€3.50m,"End of loanJun 30, 2019",2019/2020
+215551,Hidde Jurjus,Goalkeeper,25,Netherlands,PSV Eindhoven,De Graafschap,€700k,"End of loanJun 30, 2019",2019/2020
+386914,Sam Lammers,Centre-Forward,22,Netherlands,PSV Eindhoven,Heerenveen,€9.00m,"End of loanJun 30, 2019",2019/2020
+241457,Derrick Luckassen,Centre-Back,23,Netherlands,PSV Eindhoven,Hertha BSC,€3.00m,"End of loanJun 30, 2019",2019/2020
+247596,Kenneth Paal,Left-Back,22,Netherlands,PSV Eindhoven,PEC Zwolle,€900k,"End of loanJun 30, 2019",2019/2020
+235108,Luuk Koopmans,Goalkeeper,25,Netherlands,PSV Eindhoven,MVV Maastricht,€350k,"End of loanJun 30, 2019",2019/2020
+376675,Richard van der Venne,Attacking Midfield,27,Netherlands,RKC Waalwijk,Go Ahead Eagles,€400k,€100k,2019/2020
+289614,Nando Nöstlinger,Attacking Midfield,21,Belgium,RKC Waalwijk,Antwerp Res.,-,Free transfer,2019/2020
+340453,Mike Grim,Goalkeeper,22,Netherlands,RKC Waalwijk,IJsselm.vogels,-,Free transfer,2019/2020
+313399,Dean van der Sluys,Left-Back,23,Netherlands,RKC Waalwijk,TOP Oss,€275k,Free transfer,2019/2020
+292805,Lennerd Daneels,Left Winger,21,Belgium,RKC Waalwijk,PSV U21,€100k,Free transfer,2019/2020
+266414,Lars Nieuwpoort,Centre-Back,24,Netherlands,RKC Waalwijk,De Graafschap,€250k,Free transfer,2019/2020
+460939,Tijjani Reijnders,Central Midfield,21,Netherlands,RKC Waalwijk,AZ Alkmaar,€700k,Loan,2019/2020
+276002,Emil Hansson,Left Winger,21,Sweden,RKC Waalwijk,Hannover 96,€900k,Loan,2019/2020
+250464,Clint Leemans,Central Midfield,23,Netherlands,RKC Waalwijk,PEC Zwolle,€1.00m,Loan,2019/2020
+338635,Hannes Delcroix,Centre-Back,20,Belgium,RKC Waalwijk,RSC Anderlecht,€250k,Loan,2019/2020
+188905,Stanley Elbers,Right Winger,27,Netherlands,RKC Waalwijk,PEC Zwolle,€500k,Loan,2019/2020
+227352,Stefan Velkov,Centre-Back,23,Bulgaria,RKC Waalwijk,FC Den Bosch,€400k,Loan,2019/2020
+369319,Dylan Vente,Centre-Forward,20,Netherlands,RKC Waalwijk,Feyenoord,€1.00m,Loan,2019/2020
+187601,Fabian Sporkslede,Right-Back,26,Netherlands,RKC Waalwijk,Without Club,€400k,-,2019/2020
+328300,Denzel James,Left Winger,24,Netherlands,Sparta Rotterdam,Noordwijk,-,Free transfer,2019/2020
+188660,Jurgen Mattheij,Centre-Back,26,Netherlands,Sparta Rotterdam,Excelsior,€800k,Free transfer,2019/2020
+361086,Abdallah Aberkane,Centre-Back,19,Netherlands,Sparta Rotterdam,Ajax U19,-,Free transfer,2019/2020
+96382,Ariel Harush,Goalkeeper,31,Israel,Sparta Rotterdam,H. Beer Sheva,€750k,Free transfer,2019/2020
+177866,Mica Pinto,Left-Back,26,Portugal,Sparta Rotterdam,Fortuna Sittard,€650k,?,2019/2020
+369962,Joël Piroe,Centre-Forward,20,Netherlands,Sparta Rotterdam,PSV U21,€1.00m,Loan,2019/2020
+102660,Jeffry Fortes,Defensive Midfield,30,Cape Verde,Sparta Rotterdam,Excelsior,€550k,?,2019/2020
+119066,Bryan Smeets,Attacking Midfield,26,Netherlands,Sparta Rotterdam,TOP Oss,€450k,?,2019/2020
+317593,Patrick Joosten,Left Winger,23,Netherlands,Sparta Rotterdam,FC Utrecht,€900k,Loan,2019/2020
+258513,Laros Duarte,Central Midfield,22,Netherlands,Sparta Rotterdam,PSV U21,€200k,?,2019/2020
+314974,Dante Rigo,Central Midfield,20,Belgium,Sparta Rotterdam,PSV Eindhoven,€1.50m,Loan,2019/2020
+191395,Khalid Karami,Right-Back,29,Netherlands,Sparta Rotterdam,Vitesse,€500k,Loan,2019/2020
+462086,Elayis Tavsan,Right Winger,18,Netherlands,Sparta Rotterdam,Sparta U21,€25k,-,2019/2020
+251885,Julio Pleguezuelo,Centre-Back,22,Spain,FC Twente Enschede,Arsenal U23,€300k,Free transfer,2019/2020
+340172,Lindon Selahi,Central Midfield,20,Albania,FC Twente Enschede,Standard Liège,€150k,Free transfer,2019/2020
+18021,Paul Verhaegh,Right-Back,35,Netherlands,FC Twente Enschede,VfL Wolfsburg,€750k,Free transfer,2019/2020
+234375,Emil Berggreen,Centre-Forward,26,Denmark,FC Twente Enschede,1.FSV Mainz 05,€500k,Free transfer,2019/2020
+360514,Giovanni Troupée,Right-Back,21,Netherlands,FC Twente Enschede,FC Utrecht,€900k,Loan,2019/2020
+354278,Rafik Zekhnini,Left Winger,21,Norway,FC Twente Enschede,Fiorentina,€1.00m,Loan,2019/2020
+405397,Keito Nakamura,Left Winger,18,Japan,FC Twente Enschede,Gamba Osaka,€500k,Loan,2019/2020
+258364,Calvin Verdonk,Left-Back,22,Netherlands,FC Twente Enschede,Feyenoord,€2.00m,Loan,2019/2020
+186848,Giorgi Aburjania,Central Midfield,24,Georgia,FC Twente Enschede,Sevilla FC,€800k,Loan,2019/2020
+412823,Joel Latibeaudiere,Centre-Back,19,England,FC Twente Enschede,Man City U23,-,Loan,2019/2020
+339332,Noa Lang,Left Winger,20,Netherlands,FC Twente Enschede,Ajax,€3.00m,Loan,2019/2020
+268957,Matos,Left-Back,24,Spain,FC Twente Enschede,Cádiz CF,€800k,Loan,2019/2020
+282721,Oriol Busquets,Defensive Midfield,20,Spain,FC Twente Enschede,FC Barcelona,€2.50m,Loan,2019/2020
+225339,Queensy Menig,Left Winger,24,Netherlands,FC Twente Enschede,Without Club,€850k,-,2019/2020
+524043,Jesse Bosch,Central Midfield,19,Netherlands,FC Twente Enschede,FC Twente U21,€50k,-,2019/2020
+393241,Godfried Roemeratoe,Defensive Midfield,19,Netherlands,FC Twente Enschede,FC Twente U21,€50k,-,2019/2020
+406891,Dylan George,Left Winger,21,Netherlands,FC Twente Enschede,Helmond Sport,€250k,"End of loanJun 30, 2019",2019/2020
+242063,Vaclav Cerny,Right Winger,21,Czech Republic,FC Utrecht,Ajax,€1.00m,€750k,2019/2020
+288228,Adrián Dalmau,Centre-Forward,25,Spain,FC Utrecht,Heracles Almelo,€4.00m,€700k,2019/2020
+122421,Adam Maher,Central Midfield,25,Netherlands,FC Utrecht,AZ Alkmaar,€4.00m,Free transfer,2019/2020
+357917,Justin Lonwijk,Attacking Midfield,19,Netherlands,FC Utrecht,PSV U21,€350k,Free transfer,2019/2020
+79045,Jeroen Zoet,Goalkeeper,29,Netherlands,FC Utrecht,PSV Eindhoven,€8.00m,Loan,2019/2020
+326701,Bart Ramselaar,Attacking Midfield,23,Netherlands,FC Utrecht,PSV Eindhoven,€2.50m,?,2019/2020
+411287,Justin Hoogma,Centre-Back,21,Netherlands,FC Utrecht,TSG Hoffenheim,€2.50m,Loan,2019/2020
+186704,Kristoffer Peterson,Left Winger,25,Sweden,FC Utrecht,Swansea,€2.00m,Loan,2019/2020
+396077,Maarten Paes,Goalkeeper,21,Netherlands,FC Utrecht,Utrecht U21,€200k,-,2019/2020
+93758,Lamine Sané,Centre-Back,32,Senegal,FC Utrecht,Without Club,€600k,-,2019/2020
+482145,Issah Abass,Centre-Forward,20,Ghana,FC Utrecht,1.FSV Mainz 05,€1.25m,Loan,2019/2020
+477249,Christopher Mamengi,Centre-Back,18,Netherlands,FC Utrecht,Utrecht U21,€100k,-,2019/2020
+315235,Thijmen Nijhuis,Goalkeeper,20,Netherlands,FC Utrecht,Utrecht U21,€250k,-,2019/2020
+78818,Dario Dumic,Centre-Back,27,Bosnia-Herzegovina,FC Utrecht,Dynamo Dresden,€1.00m,"End of loanJun 30, 2019",2019/2020
+360520,Odysseus Velanas,Central Midfield,21,Netherlands,FC Utrecht,Helmond Sport,€200k,"End of loanJun 30, 2019",2019/2020
+317593,Patrick Joosten,Left Winger,23,Netherlands,FC Utrecht,VVV-Venlo,€900k,"End of loanJun 30, 2019",2019/2020
+360514,Giovanni Troupée,Right-Back,21,Netherlands,FC Utrecht,ADO Den Haag,€1.25m,"End of loanJun 30, 2019",2019/2020
+216443,Riechedly Bazoer,Central Midfield,22,Netherlands,Vitesse Arnhem,VfL Wolfsburg,€2.50m,€1.50m,2019/2020
+210348,Sondre Tronstad,Central Midfield,24,Norway,Vitesse Arnhem,Haugesund,€500k,€600k,2019/2020
+181469,Tomas Hajek,Centre-Back,27,Czech Republic,Vitesse Arnhem,Viktoria Plzen,€900k,€400k,2019/2020
+64352,Konstantinos Lamprou,Goalkeeper,27,Greece,Vitesse Arnhem,Ajax,€700k,Free transfer,2019/2020
+235540,Oussama Tannane,Right Winger,25,Morocco,Vitesse Arnhem,Saint-Étienne,€1.25m,Loan,2019/2020
+207006,Joshua Brenet,Right-Back,25,Netherlands,Vitesse Arnhem,TSG Hoffenheim,€3.00m,Loan,2019/2020
+173750,Nouha Dicko,Centre-Forward,27,Mali,Vitesse Arnhem,Hull City,€1.50m,Loan,2019/2020
+502561,Filip Möller Delaveris,Left Winger,19,Norway,Vitesse Arnhem,Odds BK,€300k,?,2019/2020
+360517,Jay-Roy Grot,Centre-Forward,21,Netherlands,Vitesse Arnhem,Leeds,€1.25m,Loan,2019/2020
+339337,Armando Obispo,Centre-Back,20,Netherlands,Vitesse Arnhem,PSV Eindhoven,€750k,Loan,2019/2020
+128898,Jamal Blackman,Goalkeeper,25,England,Vitesse Arnhem,Chelsea,€500k,Loan,2019/2020
+172202,Thomas Bruns,Attacking Midfield,28,Netherlands,Vitesse Arnhem,PEC Zwolle,€800k,"End of loanJan 29, 2020",2019/2020
+58359,Özgür Aktas,Centre-Back,22,Netherlands,Vitesse Arnhem,Vitesse U21,€50k,-,2019/2020
+433805,Patrick Vroegh,Defensive Midfield,19,Netherlands,Vitesse Arnhem,Vitesse U21,-,-,2019/2020
+495963,Richie Musaba,Attacking Midfield,18,Netherlands,Vitesse Arnhem,Vitesse U21,-,-,2019/2020
+163847,Eli Dasa,Right-Back,26,Israel,Vitesse Arnhem,Without Club,€1.50m,-,2019/2020
+66521,Keisuke Honda,Attacking Midfield,33,Japan,Vitesse Arnhem,Without Club,€3.50m,-,2019/2020
+361032,Bilal Bayazit,Goalkeeper,20,Netherlands,Vitesse Arnhem,Vitesse U21,€100k,-,2019/2020
+337673,Julian Lelieveld,Right-Back,21,Netherlands,Vitesse Arnhem,Go Ahead Eagles,€350k,"End of loanJun 30, 2019",2019/2020
+191395,Khalid Karami,Right-Back,29,Netherlands,Vitesse Arnhem,NAC Breda,€500k,"End of loanJun 30, 2019",2019/2020
+172202,Thomas Bruns,Attacking Midfield,27,Netherlands,Vitesse Arnhem,FC Groningen,€900k,"End of loanJun 30, 2019",2019/2020
+70280,Peniel Mlapa,Centre-Forward,28,Togo,VVV-Venlo,Dynamo Dresden,€1.50m,€500k,2019/2020
+37363,Lee Cattermole,Defensive Midfield,31,England,VVV-Venlo,Sunderland,€3.00m,Free transfer,2019/2020
+119291,Steffen Schäfer,Centre-Back,25,Germany,VVV-Venlo,1.FC Magdeburg,€450k,Free transfer,2019/2020
+72799,Samuel Scheimann,Left-Back,31,Israel,VVV-Venlo,B. Jerusalem,€400k,Free transfer,2019/2020
+50674,Elia Soriano,Centre-Forward,30,Italy,VVV-Venlo,Korona Kielce,€550k,Free transfer,2019/2020
+315291,Haji Wright,Centre-Forward,21,United States,VVV-Venlo,Schalke 04 II,€500k,Free transfer,2019/2020
+228953,Richard Neudecker,Central Midfield,22,Germany,VVV-Venlo,FC St. Pauli,€800k,Free transfer,2019/2020
+38346,Thorsten Kirschbaum,Goalkeeper,32,Germany,VVV-Venlo,Bay. Leverkusen,€200k,Free transfer,2019/2020
+161549,Tobias Pachonik,Right-Back,24,Germany,VVV-Venlo,Carpi,€500k,Free transfer,2019/2020
+321182,Oussama Darfalou,Centre-Forward,26,Algeria,VVV-Venlo,Vitesse,€1.00m,Loan,2019/2020
+282520,Roy Gelmi,Centre-Back,24,Switzerland,VVV-Venlo,FC Thun,€750k,Loan,2019/2020
+236513,Jerome Sinclair,Centre-Forward,22,England,VVV-Venlo,Watford,€1.50m,Loan,2019/2020
+172202,Thomas Bruns,Attacking Midfield,28,Netherlands,VVV-Venlo,Vitesse,€800k,Loan,2019/2020
+439914,John Yeboah,Left Winger,19,Germany,VVV-Venlo,VfL Wolfsburg,€800k,Loan,2019/2020
+578459,Aaron Bastiaans,Left Winger,17,Netherlands,VVV-Venlo,VVV U19,-,-,2019/2020
+554422,Jens Craenmehr,Goalkeeper,17,Netherlands,VVV-Venlo,VVV-Venlo U17,-,-,2019/2020
+645962,Joep Munsters,Defensive Midfield,17,Netherlands,VVV-Venlo,VVV-Venlo U17,-,-,2019/2020
+491415,Paul Wienhoven,Attacking Midfield,19,Netherlands,VVV-Venlo,VVV U19,-,-,2019/2020
+324503,Vangelis Pavlidis,Centre-Forward,20,Greece,Willem II Tilburg,VfL Bochum,€1.00m,€250k,2019/2020
+251345,Görkem Saglam,Attacking Midfield,21,Germany,Willem II Tilburg,VfL Bochum,€300k,Free transfer,2019/2020
+222320,Sebastian Holmén,Centre-Back,27,Sweden,Willem II Tilburg,Dinamo Moscow,€1.25m,Free transfer,2019/2020
+203173,Georgios Strezos,Goalkeeper,24,Greece,Willem II Tilburg,Without Club,€400k,Free transfer,2019/2020
+288067,Mats Köhlert,Left Winger,21,Germany,Willem II Tilburg,Hamburger SV II,€150k,Free transfer,2019/2020
+180843,Paul Gladon,Centre-Forward,27,Netherlands,Willem II Tilburg,FC Groningen,€600k,Free transfer,2019/2020
+130257,Miquel Nelom,Left-Back,28,Netherlands,Willem II Tilburg,Hibernian FC,€500k,Free transfer,2019/2020
+415642,João Queirós,Centre-Back,21,Portugal,Willem II Tilburg,1. FC Köln,€800k,Loan,2019/2020
+257987,Bart Nieuwkoop,Right-Back,23,Netherlands,Willem II Tilburg,Feyenoord,€1.50m,Loan,2019/2020
+437842,Jhonny Quiñónez,Defensive Midfield,21,Ecuador,Willem II Tilburg,SD Aucas,€500k,Loan,2019/2020
+381963,Mike Trésor Ndayishimiye,Attacking Midfield,20,Belgium,Willem II Tilburg,NEC Nijmegen,€350k,Loan,2019/2020
+326030,Ché Nunnely,Right Winger,20,Netherlands,Willem II Tilburg,Ajax U21,€300k,?,2019/2020
+396847,Elton Kabangu,Left Winger,21,Belgium,Willem II Tilburg,KAA Gent,€400k,?,2019/2020
+619736,Rick Zuijderwijk,Attacking Midfield,18,Netherlands,Willem II Tilburg,Willem II U19,-,-,2019/2020
+415085,Justin Ogenia,Right-Back,20,Curacao,Willem II Tilburg,Willem II U21,-,-,2019/2020
+477476,Connor van den Berg,Goalkeeper,18,Netherlands,Willem II Tilburg,Willem II U19,-,-,2019/2020
+205128,Mattijs Branderhorst,Goalkeeper,25,Netherlands,Willem II Tilburg,NEC Nijmegen,€600k,"End of loanJun 30, 2019",2019/2020
+129581,Jordy Croux,Right Winger,25,Belgium,Willem II Tilburg,MVV Maastricht,€450k,"End of loanJun 30, 2019",2019/2020
