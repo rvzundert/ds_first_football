@@ -60,6 +60,7 @@ def get_transfers(comp, year=datetime.now().year):
 def process_table_row(row, joinOrLeave, parsingTeam, year):
     
     columns = row.find_all('td')
+    playerId = columns[0].find('a').get('id')
     playerName = columns[0].find('a').get_text()
     playerAge = columns[1].get_text()
     playerNationality = columns[2].find('img').get('alt')
@@ -74,6 +75,7 @@ def process_table_row(row, joinOrLeave, parsingTeam, year):
     toTeam = teamFromColumn if joinOrLeave == 'join' else parsingTeam
     
     return{
+    'player_id' : playerId,
     'player_name': playerName,
     'player_position': playerPosition,
     'player_age' : playerAge,
