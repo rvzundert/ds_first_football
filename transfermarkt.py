@@ -6,6 +6,7 @@ Created on Wed Apr 15 11:50:47 2020
 """
 import requests
 from bs4 import BeautifulSoup
+import pandas as pd
 
 url = "https://www.transfermarkt.com/transfers/neuestetransfers/statistik/plus/?plus=1&wettbewerb_id=NL1&land_id=&minMarktwert=0&maxMarktwert=200.000.000"
 headers = {'User-Agent': 
@@ -20,18 +21,35 @@ playerRows.pop(0)
 
 x = 0
 
+playerNames = []
+playerAges = []
+playerNationalities = []
+fromTeams = []
+fromCompetitions = []
+toTeams = []
+toCompetitions = []
+marketValues = []
+transferDates = []
+transferFees = []
+
 #loop through the players and get all data from columns
 for player in playerRows:
     allColumns = player.find_all('td', recursive=False)
+    
+    #add player name
     playerName = player.find('a').get_text()
+    playerNames.append(playerName)
+    
+    #add player age
     playerAge = allColumns[1].get_text()
+    playerAges.append(playerAge)
         
     #nationalities parsing
     playerNationalitiesTags = allColumns[2].find_all('img')
-    playerNationalities = []
-    
+    playerNationalityArray = []
     for nat in playerNationalitiesTags:
-        playerNationalities.append(nat.get('alt'))
+        playerNationalityArray.append(nat.get('alt'))
+    playerNationalities.append(','.join(playerNationalityArray))
     
     #from team parsing
     fromTeamColumn = allColumns[3]
@@ -41,6 +59,8 @@ for player in playerRows:
         fromCompetition = fromTeamRows[1].find('a').get_text()
     else:
         fromCompetition = 'None'
+    fromTeams.append(fromTeam)
+    fromCompetitions.append(fromCompetition)
     
     #to team parsing
     toTeamColumn = allColumns[4]
@@ -50,14 +70,35 @@ for player in playerRows:
         toCompetition = toTeamRows[1].find('a').get_text()
     else:
         toCompetition = 'None'
+    toTeams.append(toTeam)
+    toCompetitions.append(toCompetition)
     
+    #add transfer date
     transferDate = allColumns[5].get_text()
-    marketValue = allColumns[6].get_text()
-    transferFee = allColumns[7].find('a').get_text()
+    transferDates.append(transferDate)
     
-    print(playerName + ' ' + playerAge + ' ' + fromTeam + ' ' + fromCompetition + ' ' + toTeam + ' ' + toCompetition)
-    print(transferDate + ' ' + marketValue + ' ' + transferFee)
-    print(playerNationalities)
+    #add market value
+    marketValue = allColumns[6].get_text()
+    marketValues.append(marketValue)
+    
+    #add transfer fee
+    transferFee = allColumns[7].find('a').get_text()
+    transferFees.append(transferFee)
+    
     x+=1
-    if x == 5:
-        break
+    # if x == 5:
+    #     break
+
+#add all data to a table
+players = pd.DataFrame({
+    'player_name': playerNames,
+    'player_age' : playerAges,
+    'player_nats' : playerNationalities, 
+    'from_team' : fromTeams,
+    'from_competition' : fromCompetitions,
+    'to_team' : toTeams,
+    'to_competition' : toCompetitions,
+    'market_value' : marketValues,
+    'transfer_date' : transferDates,
+    'transfer_fee' : transferFees
+})
