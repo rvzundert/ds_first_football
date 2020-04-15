@@ -68,7 +68,8 @@ def get_players(comp, top):
                 else:
                     fromCompetition = teamRowAnchorTag.get_text()
             else:
-                fromCompetition = 'None'
+                fromCompetition = ''
+                fromTeam = ''
             
             #to team parsing
             toTeamColumn = allColumns[4]
@@ -87,7 +88,8 @@ def get_players(comp, top):
                 else:
                     toCompetition = teamRowAnchorTag.get_text()
             else:
-                toCompetition = 'None'
+                toCompetition = ''
+                toTeam = ''
             
             #add transfer date
             transferDate = allColumns[5].get_text()

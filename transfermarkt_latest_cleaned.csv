@@ -1,0 +1,244 @@
+,player_name,player_age,from_team,from_competition,to_team,to_competition,transfer_date,first_nationality,second_nationality,market_value_number,transfer_fee_number,transfer_fee_other
+0,Samir Memisevic,26,FC Groningen,Eredivisie,HB CFFC,Super League,2/28/2020,Bosnia-Herzegovina,,1600,1500,
+1,Sam Larsson,27,Feyenoord,Eredivisie,DL Pro,Super League,2/28/2020,Sweden,,4000,5000,
+2,Siem de Jong,31,Ajax,Eredivisie,Cincinnati,MLS,2/20/2020,Netherlands,,1600,0,Free transfer
+3,Áron Dobos,19,Fortuna Sittard,Eredivisie,ETO FC Győr ,NB II.,2/14/2020,Hungary,,150,0,Loan
+4,Lamine Sané,33,Without Club,None,FC Utrecht,Eredivisie,2/8/2020,Senegal,France,475,0,-
+5,Andreas Skovgaard,23,Heerenveen,Eredivisie,Örebro SK,Allsvenskan,2/5/2020,Denmark,,325,0,Loan
+6,Darryl Lachman,30,PEC Zwolle,Eredivisie,Hapoel Raanana,Ligat ha'Al,2/5/2020,Curacao,Netherlands,550,0,Free transfer
+7,Navarone Foor,28,Vitesse,Eredivisie,Ittihad Kalba,UAE Gulf League,2/3/2020,Netherlands,Indonesia,1000,500,
+8,Mark Duffy,34,Sheffield Utd.,Premier League,ADO Den Haag,Eredivisie,1/31/2020,England,,400,0,Loan
+9,Victor van den Bogert,20,Willem II,Eredivisie,De Graafschap,Keuken Kampioen Divisie,1/31/2020,Netherlands,,100,0,Loan
+10,Daishawn Redan,19,Hertha BSC,Bundesliga,FC Groningen,Eredivisie,1/31/2020,Netherlands,Suriname,3600,0,Loan
+11,Emil Frederiksen,19,Heerenveen,Eredivisie,SönderjyskE,Superligaen,1/31/2020,Denmark,,150,0,Loan
+12,Lazaros Rota,22,Michalovce,Fortuna Liga,Fortuna Sittard,Eredivisie,1/31/2020,Greece,Albania,300,0,?
+13,Roy Gelmi,25,FC Thun,Super League,VVV-Venlo,Eredivisie,1/31/2020,Switzerland,Netherlands,600,0,Loan
+14,Karim Coulibaly,26,Willem II,Eredivisie,SC Toulon,Championnat National,1/31/2020,France,Senegal,150,0,Free transfer
+15,Donny Gorter,31,ADO Den Haag,Eredivisie,Without Club,None,1/31/2020,Netherlands,Switzerland,200,0,-
+16,Pontus Dahlberg,21,Watford,Premier League,FC Emmen,Eredivisie,1/31/2020,Sweden,,900,0,Loan
+17,Gastón Pereiro,24,PSV Eindhoven,Eredivisie,Cagliari Calcio,Serie A,1/31/2020,Uruguay,,8000,2000,
+18,Nikolai Frederiksen,19,Juventus U23,Serie C - A,Fortuna Sittard,Eredivisie,1/31/2020,Denmark,,250,0,Loan
+19,Jeroen Houwen,24,Vitesse,Eredivisie,Go Ahead Eagles,Keuken Kampioen Divisie,1/31/2020,Netherlands,,325,0,Loan
+20,Leon Bergsma,23,AZ Alkmaar,Eredivisie,FC Den Bosch,Keuken Kampioen Divisie,1/31/2020,Netherlands,,300,0,Loan
+21,Joshua Brenet,26,TSG Hoffenheim,Bundesliga,Vitesse,Eredivisie,1/31/2020,Netherlands,Curacao,2400,0,Loan
+22,Giacomo Quagliata,20,Pro Vercelli,Serie C - A,Heracles Almelo,Eredivisie,1/31/2020,Italy,,125,0,?
+23,Filip Möller Delaveris,19,Odds BK,Eliteserien,Vitesse,Eredivisie,1/31/2020,Norway,,300,0,?
+24,Delano Burgzorg,21,Spezia Calcio,Serie B,Heracles Almelo,Eredivisie,1/31/2020,Netherlands,Suriname,525,0,Loan
+25,Milan van Ewijk,19,ADO Den Haag,Eredivisie,SC Cambuur,Keuken Kampioen Divisie,1/31/2020,Netherlands,,400,0,Loan
+26,Kevin Vermeulen,29,RKC Waalwijk,Eredivisie,FC Dordrecht,Keuken Kampioen Divisie,1/31/2020,Netherlands,,250,0,Free transfer
+27,Omar Bogle,27,Cardiff,Championship,ADO Den Haag,Eredivisie,1/31/2020,England,Ghana,600,0,Loan
+28,Jannik Pohl,24,FC Groningen,Eredivisie,AC Horsens,Superligaen,1/31/2020,Denmark,,300,0,Free transfer
+29,Ricardo Rodríguez,27,AC Milan,Serie A,PSV Eindhoven,Eredivisie,1/30/2020,Switzerland,Chile,5500,0,Loan fee:€1.00m
+30,Thomas Bruns,28,Vitesse,Eredivisie,VVV-Venlo,Eredivisie,1/30/2020,Netherlands,,650,0,Loan
+31,Cian Harries,23,Fortuna Sittard,Eredivisie,Swansea,Championship,1/30/2020,Wales,,250,0,End of loan
+32,Kaj Sierhuis,21,FC Groningen,Eredivisie,Ajax U21,Keuken Kampioen Divisie,1/30/2020,Netherlands,,2700,0,End of loan
+33,Thom Haye,25,ADO Den Haag,Eredivisie,NAC Breda,Keuken Kampioen Divisie,1/29/2020,Netherlands,Indonesia,400,0,Loan
+34,Simon Makienok,29,FC Utrecht,Eredivisie,Dynamo Dresden,2. Bundesliga,1/29/2020,Denmark,,550,100,
+35,David Jensen,28,FC Utrecht,Eredivisie,NY Red Bulls,MLS,1/29/2020,Denmark,,800,0,?
+36,Oguzhan Özyakup,27,Besiktas,Süper Lig,Feyenoord,Eredivisie,1/29/2020,Turkey,Netherlands,1700,0,Loan
+37,Steven Bergwijn,22,PSV Eindhoven,Eredivisie,Spurs,Premier League,1/29/2020,Netherlands,Suriname,28000,30000,
+38,Thomas Bruns,28,PEC Zwolle,Eredivisie,Vitesse,Eredivisie,1/29/2020,Netherlands,,650,0,End of loan
+39,Elia Soriano,30,VVV-Venlo,Eredivisie,Hapoel Raanana,Ligat ha'Al,1/28/2020,Italy,Germany,400,0,Free transfer
+40,Kerim Frei,26,Basaksehir,Süper Lig,FC Emmen,Eredivisie,1/27/2020,Turkey,Switzerland,525,0,Loan
+41,Samuel Scheimann,32,VVV-Venlo,Eredivisie,Kiryat Shmona,Ligat ha'Al,1/27/2020,Israel,Netherlands,300,0,Free transfer
+42,Robert Bozenik,20,MSK Zilina,Fortuna Liga,Feyenoord,Eredivisie,1/27/2020,Slovakia,,3200,4000,
+43,Iliass Bel Hassani,27,PEC Zwolle,Eredivisie,Al Wakrah,Stars League,1/27/2020,Netherlands,Morocco,675,0,?
+44,Hassane Bandé,21,Ajax,Eredivisie,FC Thun,Super League,1/27/2020,Burkina Faso,,2700,0,Loan
+45,Jeffry Fortes,31,Excelsior,Keuken Kampioen Divisie,Sparta R.,Eredivisie,1/26/2020,Cape Verde,Netherlands,450,0,?
+46,Görkem Can,19,Schalke 04 II,Regionalliga West,FC Groningen,Eredivisie,1/25/2020,Turkey,Germany,50,0,?
+47,Sondre Tronstad,24,Haugesund,Eliteserien,Vitesse,Eredivisie,1/24/2020,Norway,,400,600,
+48,Luciano Slagveer,26,FC Emmen,Eredivisie,Puskás AFC,NB I.,1/23/2020,Netherlands,Suriname,400,50,
+49,Jordan Spence,29,Without Club,None,ADO Den Haag,Eredivisie,1/22/2020,England,,400,0,-
+50,Lennart Czyborra,20,Heracles Almelo,Eredivisie,Atalanta,Serie A,1/22/2020,Germany,,3200,4500,
+51,Yassin Ayoub,26,Feyenoord,Eredivisie,Panathinaikos,Super League 1,1/22/2020,Morocco,Netherlands,2000,0,Free transfer
+52,Emil Hansson,21,Hannover 96,2. Bundesliga,RKC Waalwijk,Eredivisie,1/22/2020,Sweden,Norway,800,0,Loan
+53,Amir Absalem,22,FC Groningen,Eredivisie,Almere City,Keuken Kampioen Divisie,1/21/2020,Netherlands,Morocco,325,0,Loan
+54,Luka Adzic,21,RSC Anderlecht,Jupiler Pro League,FC Emmen,Eredivisie,1/21/2020,Serbia,,900,0,Loan
+55,Rico Strieder,27,FC Utrecht,Eredivisie,PEC Zwolle,Eredivisie,1/21/2020,Germany,,800,0,Loan
+56,Görkem Saglam,22,VfL Bochum,2. Bundesliga,Willem II,Eredivisie,1/20/2020,Germany,Turkey,300,0,Free transfer
+57,Richard van der Venne,27,Go Ahead Eagles,Keuken Kampioen Divisie,RKC Waalwijk,Eredivisie,1/20/2020,Netherlands,,325,100,
+58,Kristoffer Peterson,25,Swansea,Championship,FC Utrecht,Eredivisie,1/20/2020,Sweden,,1600,0,Loan
+59,Damian van Bruggen,24,VVV-Venlo,Eredivisie,Inter Zapresic,1.HNL,1/18/2020,Netherlands,,325,0,?
+60,Noa Lang,20,Ajax,Eredivisie,FC Twente,Eredivisie,1/18/2020,Netherlands,Suriname,2700,0,Loan
+61,Nemanja Mihajlovic,24,Heerenveen,Eredivisie,Arka Gdynia,Ekstraklasa,1/17/2020,Serbia,,525,450,
+62,Stefan Velkov,23,FC Den Bosch,Keuken Kampioen Divisie,RKC Waalwijk,Eredivisie,1/17/2020,Bulgaria,,325,0,Loan
+63,Tudor Baluta,21,Brighton,Premier League,ADO Den Haag,Eredivisie,1/17/2020,Romania,,3600,0,Loan
+64,Jamal Blackman,26,Vitesse,Eredivisie,Chelsea,Premier League,1/16/2020,England,Jamaica,400,0,End of loan
+65,Kenneth Vermeer,34,Feyenoord,Eredivisie,Los Angeles FC,MLS,1/15/2020,Netherlands,Suriname,1600,0,?
+66,Achraf El Bouchataoui,20,Feyenoord,Eredivisie,FC Dordrecht,Keuken Kampioen Divisie,1/15/2020,Netherlands,Morocco,250,0,Loan
+67,Lars Veldwijk,28,Sparta R.,Eredivisie,Jeonbuk Motors,K League 1,1/15/2020,South Africa,Netherlands,550,300,
+68,Abdallah Aberkane,19,Sparta R.,Eredivisie,Excelsior,Keuken Kampioen Divisie,1/14/2020,Netherlands,Morocco,50,0,Free transfer
+69,Robin Polley,21,ADO Den Haag,Eredivisie,FC Dordrecht,Keuken Kampioen Divisie,1/14/2020,Ghana,Netherlands,50,0,Loan
+70,Jeroen Zoet,29,PSV Eindhoven,Eredivisie,FC Utrecht,Eredivisie,1/14/2020,Netherlands,,5500,0,Loan
+71,Charlison Benschop,30,FC Groningen,Eredivisie,Apol. Limassol,First Division,1/13/2020,Curacao,Netherlands,400,0,?
+72,Mick van Buren,27,Slavia Prague,Fortuna Liga,ADO Den Haag,Eredivisie,1/13/2020,Netherlands,,600,0,Loan
+73,Laurens De Bock,27,Leeds,Championship,ADO Den Haag,Eredivisie,1/13/2020,Belgium,,550,0,Loan
+74,Stijn Spierings,24,RKC Waalwijk,Eredivisie,Levski Sofia,efbet Liga,1/13/2020,Netherlands,,550,500,
+75,George Thomas,23,Leicester,Premier League,ADO Den Haag,Eredivisie,1/13/2020,Wales,England,250,0,Loan
+76,Fred Friday,24,AZ Alkmaar,Eredivisie,Without Club,None,1/13/2020,Nigeria,,300,0,-
+77,Ryan Babel,33,Galatasaray,Süper Lig,Ajax,Eredivisie,1/11/2020,Netherlands,Suriname,2000,0,Loan fee:€1.55m
+78,Luis Manuel Orejuela,24,Ajax,Eredivisie,Cruzeiro,Série B,1/11/2020,Colombia,,1200,1300,
+79,Pawel Cibicki,26,ADO Den Haag,Eredivisie,Leeds,Championship,1/11/2020,Sweden,Poland,550,0,End of loan
+80,Liam Kelly,24,Feyenoord,Eredivisie,Oxford United,League One,1/8/2020,Ireland,England,475,0,Loan
+81,Sam Stubbs,21,Boro U23,Premier League 2,ADO Den Haag,Eredivisie,1/8/2020,England,,250,0,Loan
+82,Justin Ogenia,21,Willem II,Eredivisie,FC Eindhoven,Keuken Kampioen Divisie,1/7/2020,Curacao,Netherlands,75,0,Loan
+83,Oussama Darfalou,26,Vitesse,Eredivisie,VVV-Venlo,Eredivisie,1/7/2020,Algeria,,800,0,Loan
+84,Björn Johnsen,28,AZ Alkmaar,Eredivisie,Ulsan Hyundai,K League 1,1/6/2020,Norway,United States,1200,1000,
+85,Anders Dreyer,21,Heerenveen,Eredivisie,Brighton,Premier League,1/5/2020,Denmark,,525,0,End of loan
+86,Ramon Leeuwin,32,Odense BK,Superligaen,AZ Alkmaar,Eredivisie,1/3/2020,Netherlands,Suriname,400,0,?
+87,Halil Dervisoglu,20,Sparta R.,Eredivisie,Brentford,Championship,1/3/2020,Turkey,Netherlands,1800,3000,
+88,Tijjani Reijnders,21,AZ Alkmaar,Eredivisie,RKC Waalwijk,Eredivisie,1/2/2020,Netherlands,,625,0,Loan
+89,Hilal Ben Moussa,27,Sepsi Sf. Gh.,Liga 1 - Relegation group,FC Emmen,Eredivisie,1/2/2020,Netherlands,Morocco,250,0,Free transfer
+90,Mike Havekotte,24,ADO Den Haag,Eredivisie,FC Dordrecht,Keuken Kampioen Divisie,1/2/2020,Netherlands,,75,0,Loan
+91,Ramón ten Hove,22,FC Dordrecht,Keuken Kampioen Divisie,Feyenoord,Eredivisie,1/2/2020,Netherlands,,200,0,End of loan
+92,Jesse Bosch,20,FC Twente U21,Beloften Eerste Divisie,FC Twente,Eredivisie,1/1/2020,Netherlands,,50,0,-
+93,Romano Postema,18,Groningen U19,U19 Eredivisie,FC Groningen,Eredivisie,1/1/2020,Netherlands,,200,0,-
+94,Mats van Kins,21,ADO Den Haag,Eredivisie,ADO U21,Derde Divisie Sunday,1/1/2020,Netherlands,,100,0,-
+95,Dean van der Sluys,24,RKC Waalwijk,Eredivisie,TOP Oss,Keuken Kampioen Divisie,1/1/2020,Netherlands,,300,0,Free transfer
+96,Mica Pinto,26,Fortuna Sittard,Eredivisie,Sparta R.,Eredivisie,1/1/2020,Portugal,Luxembourg,525,0,?
+97,Runar Espejord,24,Tromsø IL,OBOS-ligaen,Heerenveen,Eredivisie,1/1/2020,Norway,,325,500,
+98,Michael Breij,23,FC Groningen,Eredivisie,SC Cambuur,Keuken Kampioen Divisie,1/1/2020,Netherlands,,325,0,?
+99,Hakon Evjen,20,Bodø/Glimt,Eliteserien,AZ Alkmaar,Eredivisie,1/1/2020,Norway,,3200,2500,
+100,Toni Lato,22,PSV Eindhoven,Eredivisie,Valencia,LaLiga,1/1/2020,Spain,,1600,0,End of loan
+101,Jannik Pohl,24,AC Horsens,Superligaen,FC Groningen,Eredivisie,12/31/2019,Denmark,,300,0,End of loan
+102,Jhonny Quiñónez,21,Willem II,Eredivisie,SD Aucas,LigaPro Serie A,12/31/2019,Ecuador,,450,0,End of loan
+103,Björn Johnsen,28,Rosenborg BK,Eliteserien,AZ Alkmaar,Eredivisie,12/31/2019,Norway,United States,1200,0,End of loan
+104,Luis Manuel Orejuela,24,Cruzeiro,Série A,Ajax,Eredivisie,12/31/2019,Colombia,,1200,0,End of loan
+105,Jordan Teze,20,PSV U21,Keuken Kampioen Divisie,PSV Eindhoven,Eredivisie,12/21/2019,Netherlands,Congo,450,0,-
+106,Agim Zeka,21,Fortuna Sittard,Eredivisie,LOSC Lille B,"
+ France		",12/20/2019,Albania,Germany,150,0,End of loan
+107,Dylan Seys,23,RKC Waalwijk,Eredivisie,Without Club,None,12/3/2019,Belgium,,400,0,-
+108,Keisuke Honda,33,Without Club,None,Vitesse,Eredivisie,11/6/2019,Japan,,800,0,-
+109,Miguel Araujo,25,Without Club,None,FC Emmen,Eredivisie,10/4/2019,Peru,,675,0,Free transfer
+110,Fabian Sporkslede,26,Without Club,None,RKC Waalwijk,Eredivisie,9/27/2019,Netherlands,Suriname,325,0,-
+111,Georgios Strezos,24,Without Club,None,Willem II,Eredivisie,9/25/2019,Greece,,325,0,Free transfer
+112,Özgür Aktas,23,Vitesse U21,Beloften Eerste Divisie,Vitesse,Eredivisie,9/19/2019,Netherlands,Turkey,50,0,-
+113,Patrick Vroegh,20,Vitesse U21,Beloften Eerste Divisie,Vitesse,Eredivisie,9/19/2019,Netherlands,,50,0,-
+114,Wilfried Kanon,26,ADO Den Haag,Eredivisie,Pyramids FC,Premier League,9/17/2019,Cote d'Ivoire,,1400,600,
+115,Jari Oosterwijk,25,FC Twente,Eredivisie,Without Club,None,9/16/2019,Netherlands,,400,0,-
+116,Noa Lang,20,Ajax U21,Keuken Kampioen Divisie,Ajax,Eredivisie,9/12/2019,Netherlands,Suriname,2700,0,-
+117,Jurgen Ekkelenkamp,20,Ajax U21,Keuken Kampioen Divisie,Ajax,Eredivisie,9/12/2019,Netherlands,,1300,0,-
+118,Sergiño Dest,19,Ajax U21,Keuken Kampioen Divisie,Ajax,Eredivisie,9/12/2019,United States,Netherlands,18000,0,-
+119,Ryan Gravenberch,17,Ajax U21,Keuken Kampioen Divisie,Ajax,Eredivisie,9/12/2019,Netherlands,Suriname,11000,0,-
+120,Tesfaldet Tekie,22,Without Club,None,Fortuna Sittard,Eredivisie,9/9/2019,Sweden,Eritrea,650,0,-
+121,Queensy Menig,24,Without Club,None,FC Twente,Eredivisie,9/9/2019,Netherlands,Suriname,550,0,-
+122,Eli Dasa,27,Without Club,None,Vitesse,Eredivisie,9/9/2019,Israel,,800,0,-
+123,Jamal Blackman,26,Chelsea,Premier League,Vitesse,Eredivisie,9/3/2019,England,Jamaica,400,0,Loan
+124,Josimar Lima,30,VVV-Venlo,Eredivisie,ASWH,Tweede Divisie,9/2/2019,Cape Verde,Netherlands,0,0,Free transfer
+125,Mickaël Malsa,24,Fortuna Sittard,Eredivisie,CD Mirandés,LaLiga2,9/2/2019,Martinique,France,800,0,Free transfer
+126,Alen Halilovic,23,AC Milan,Serie A,Heerenveen,Eredivisie,9/2/2019,Croatia,,1400,0,Loan
+127,Mike Trésor Ndayishimiye,20,NEC Nijmegen,Keuken Kampioen Divisie,Willem II,Eredivisie,9/2/2019,Belgium,Burundi,3600,0,Loan
+128,Alexander Laukart,21,FC Twente,Eredivisie,FC Den Bosch,Keuken Kampioen Divisie,9/2/2019,Germany,,200,0,Free transfer
+129,Joel Latibeaudiere,20,Man City U23,Premier League 2,FC Twente,Eredivisie,9/2/2019,England,Jamaica,100,0,Loan
+130,Tesfaldet Tekie,22,KAA Gent,Jupiler Pro League,Without Club,None,9/2/2019,Sweden,Eritrea,650,0,-
+131,George Cox,22,Brighton U23,Premier League 2,Fortuna Sittard,Eredivisie,9/2/2019,England,,75,0,Loan
+132,Jannik Pohl,24,FC Groningen,Eredivisie,AC Horsens,Superligaen,9/2/2019,Denmark,,300,0,Loan
+133,Lucas Schoofs,23,KAA Gent,Jupiler Pro League,Heracles Almelo,Eredivisie,9/2/2019,Belgium,,250,0,Free transfer
+134,Mateo Cassierra,23,Ajax,Eredivisie,Belenenses SAD,Liga NOS,9/2/2019,Colombia,,1200,2500,
+135,Jeremy Cijntje,22,FC Dordrecht,Keuken Kampioen Divisie,Heracles Almelo,Eredivisie,9/2/2019,Curacao,Netherlands,300,0,?
+136,Reza Ghoochannejhad,32,APOEL Nicosia,First Division,PEC Zwolle,Eredivisie,9/2/2019,Iran,Netherlands,525,0,Free transfer
+137,Miquel Nelom,29,Hibernian FC,Premiership,Willem II,Eredivisie,9/2/2019,Netherlands,Suriname,400,0,Free transfer
+138,Nouha Dicko,27,Hull City,Championship,Vitesse,Eredivisie,9/2/2019,Mali,France,1200,0,Loan
+139,Aleksandar Bjelica,26,Korona Kielce,Ekstraklasa,ADO Den Haag,Eredivisie,9/2/2019,Serbia,Netherlands,300,0,Loan
+140,Jeroen van der Lely,24,FC Twente,Eredivisie,Vendsyssel FF,NordicBet LIGA,9/2/2019,Netherlands,,250,0,Free transfer
+141,Jelle van der Heyden,24,FC Twente,Eredivisie,Vendsyssel FF,NordicBet LIGA,9/2/2019,Netherlands,,250,0,Free transfer
+142,Tom Boere,27,FC Twente,Eredivisie,KFC Uerdingen,3. Liga,9/2/2019,Netherlands,,400,0,Free transfer
+143,Vyacheslav Karavaev,24,Vitesse,Eredivisie,Zenit S-Pb,Premier Liga,9/2/2019,Russia,,5500,8000,
+144,Marcos Senesi,22,San Lorenzo,Superliga,Feyenoord,Eredivisie,9/2/2019,Argentina,Italy,7000,7000,
+145,Luciano Slagveer,26,KSC Lokeren,Proximus League,FC Emmen,Eredivisie,9/2/2019,Netherlands,Suriname,400,0,Free transfer
+146,John Yeboah,19,VfL Wolfsburg,Bundesliga,VVV-Venlo,Eredivisie,9/2/2019,Germany,Ghana,575,0,Loan
+147,Van Hau Doan,20,Ha Noi FC,V.League 1,Heerenveen,Eredivisie,9/2/2019,Vietnam,,150,0,Loan
+148,Thijmen Goppel,23,ADO Den Haag,Eredivisie,MVV Maastricht,Keuken Kampioen Divisie,9/2/2019,Netherlands,,300,0,Loan
+149,Leandro Fernandes,20,Juventus U23,Serie C - A,Fortuna Sittard,Eredivisie,9/2/2019,Netherlands,Angola,175,0,Loan
+150,Tino-Sven Susic,28,VVV-Venlo,Eredivisie,Without Club,None,9/2/2019,Bosnia-Herzegovina,Belgium,650,0,-
+151,Emil Bergström,26,FC Utrecht,Eredivisie,FC Basel,Super League,9/2/2019,Sweden,,800,0,Loan
+152,Zian Flemming,21,PEC Zwolle,Eredivisie,NEC Nijmegen,Keuken Kampioen Divisie,9/2/2019,Netherlands,,675,0,Loan
+153,Denzel James,25,Sparta R.,Eredivisie,Noordwijk,Tweede Divisie,9/2/2019,Netherlands,,0,0,Free transfer
+154,Tim van de Berg,22,Heracles Almelo,Eredivisie,DHSC Utrecht,Hoofdklasse A Saturday,9/2/2019,Netherlands,,100,0,Free transfer
+155,Mukhtar Ali,22,Vitesse,Eredivisie,Al-Nassr,Professional League,9/1/2019,Saudi Arabia,England,450,0,?
+156,Derrick Luckassen,24,PSV Eindhoven,Eredivisie,RSC Anderlecht,Jupiler Pro League,8/31/2019,Netherlands,Ghana,2400,0,Loan
+157,Bart Nieuwkoop,24,Feyenoord,Eredivisie,Willem II,Eredivisie,8/30/2019,Netherlands,,1200,0,Loan
+158,Michaël Heylen,26,Zulte Waregem,Jupiler Pro League,FC Emmen,Eredivisie,8/30/2019,Belgium,,400,0,Free transfer
+159,Clint Leemans,24,PEC Zwolle,Eredivisie,RKC Waalwijk,Eredivisie,8/30/2019,Netherlands,,550,0,Loan
+160,Dani de Wit,22,Ajax,Eredivisie,AZ Alkmaar,Eredivisie,8/30/2019,Netherlands,,2700,2000,
+161,Crysencio Summerville,18,Feyenoord U19,U19 Eredivisie,ADO Den Haag,Eredivisie,8/30/2019,Netherlands,Suriname,900,0,Loan
+162,Joey Veerman,21,FC Volendam,Keuken Kampioen Divisie,Heerenveen,Eredivisie,8/30/2019,Netherlands,,3200,550,
+163,Ritsu Doan,21,FC Groningen,Eredivisie,PSV Eindhoven,Eredivisie,8/30/2019,Japan,,6300,7500,
+164,Jan de Boer,19,Heerenveen U19,U19 Eredivisie,FC Groningen,Eredivisie,8/29/2019,Netherlands,,25,0,Free transfer
+165,Jhonny Quiñónez,21,SD Aucas,LigaPro Serie A,Willem II,Eredivisie,8/29/2019,Ecuador,,450,0,Loan
+166,Kasper Dolberg,22,Ajax,Eredivisie,OGC Nice,Ligue 1,8/29/2019,Denmark,,16000,20500,
+167,Trent Sainsbury,28,PSV Eindhoven,Eredivisie,Maccabi Haifa,Ligat ha'Al,8/29/2019,Australia,England,950,0,Free transfer
+168,Marko Vejinović,30,AZ Alkmaar,Eredivisie,Arka Gdynia,Ekstraklasa,8/28/2019,Netherlands,Serbia,900,300,
+169,Elton Kabangu,22,KAA Gent,Jupiler Pro League,Willem II,Eredivisie,8/27/2019,Belgium,DR Congo,350,0,?
+170,Oriol Busquets,21,FC Barcelona,LaLiga,FC Twente,Eredivisie,8/27/2019,Spain,,2300,0,Loan
+171,Cian Harries,23,Swansea,Championship,Fortuna Sittard,Eredivisie,8/27/2019,Wales,,250,0,Loan
+172,Zakaria Aboukhlal,20,PSV U21,Keuken Kampioen Divisie,AZ Alkmaar,Eredivisie,8/27/2019,Netherlands,Morocco,1300,2000,
+173,Martin Angha,26,FC Sion,Super League,Fortuna Sittard,Eredivisie,8/26/2019,Switzerland,DR Congo,550,0,?
+174,Stanley Elbers,27,PEC Zwolle,Eredivisie,RKC Waalwijk,Eredivisie,8/26/2019,Netherlands,Suriname,400,0,Loan
+175,Thulani Serero,30,Vitesse,Eredivisie,Al-Jazira,UAE Gulf League,8/25/2019,South Africa,,1000,0,?
+176,Björn Johnsen,28,AZ Alkmaar,Eredivisie,Rosenborg BK,Eliteserien,8/24/2019,Norway,United States,1200,0,Loan
+177,Bart Ramselaar,23,PSV Eindhoven,Eredivisie,FC Utrecht,Eredivisie,8/24/2019,Netherlands,,2400,0,?
+178,Royston Drenthe,33,Sparta R.,Eredivisie,Kozakken Boys,Tweede Divisie,8/24/2019,Netherlands,Suriname,0,0,Free transfer
+179,Mustafa Saymak,27,C. Rizespor,Süper Lig,PEC Zwolle,Eredivisie,8/23/2019,Netherlands,Turkey,725,0,Free transfer
+180,Anders Dreyer,21,Brighton,Premier League,Heerenveen,Eredivisie,8/23/2019,Denmark,,525,0,Loan
+181,Hirving Lozano,24,PSV Eindhoven,Eredivisie,SSC Napoli,Serie A,8/23/2019,Mexico,,28000,38000,
+182,Dylan Vente,20,Feyenoord,Eredivisie,RKC Waalwijk,Eredivisie,8/23/2019,Netherlands,,450,0,Loan
+183,Joël Piroe,20,PSV U21,Keuken Kampioen Divisie,Sparta R.,Eredivisie,8/22/2019,Netherlands,Suriname,725,0,Loan
+184,Rasmus Thelander,28,Vitesse,Eredivisie,Aalborg BK,Superligaen,8/22/2019,Denmark,,550,100,
+185,Lee Cattermole,32,Sunderland,League One,VVV-Venlo,Eredivisie,8/22/2019,England,,650,0,Free transfer
+186,Konstantinos Mitroglou,32,Galatasaray,Süper Lig,PSV Eindhoven,Eredivisie,8/21/2019,Greece,,1600,0,Loan fee:€1.25m
+187,Pawel Cibicki,26,Leeds,Championship,ADO Den Haag,Eredivisie,8/21/2019,Sweden,Poland,550,0,Loan
+188,Luuk Koopmans,26,PSV Eindhoven,Eredivisie,ADO Den Haag,Eredivisie,8/20/2019,Netherlands,,475,0,Loan
+189,Jordy Wehrmann,21,Feyenoord,Eredivisie,FC Dordrecht,Keuken Kampioen Divisie,8/20/2019,Netherlands,,250,0,Loan
+190,Emil Hansson,21,Feyenoord,Eredivisie,Hannover 96,2. Bundesliga,8/19/2019,Sweden,Norway,800,400,
+191,Othman Boussaid,20,FC Utrecht,Eredivisie,NAC Breda,Keuken Kampioen Divisie,8/19/2019,Belgium,Morocco,775,0,Loan
+192,Edgar Ié,25,Trabzonspor,Süper Lig,Feyenoord,Eredivisie,8/16/2019,Portugal,Guinea-Bissau,2400,0,Loan
+193,Nick Kuipers,27,ADO Den Haag,Eredivisie,Persib Bandung,Liga 1,8/15/2019,Netherlands,,375,0,Free transfer
+194,Calvin Verdonk,22,Feyenoord,Eredivisie,FC Twente,Eredivisie,8/15/2019,Netherlands,,1600,0,Loan
+195,Joel Asoro,20,Swansea,Championship,FC Groningen,Eredivisie,8/15/2019,Sweden,Ghana,1300,0,Loan
+196,Ahmed El Messaoudi,24,KV Mechelen,Jupiler Pro League,FC Groningen,Eredivisie,8/15/2019,Morocco,Belgium,800,0,?
+197,Nasser El Khayati,31,ADO Den Haag,Eredivisie,Qatar SC,Stars League,8/15/2019,Netherlands,Morocco,2200,1700,
+198,Tom van de Looi,20,FC Groningen,Eredivisie,NEC Nijmegen,Keuken Kampioen Divisie,8/14/2019,Netherlands,,350,0,Loan
+199,Thomas Bruns,28,Vitesse,Eredivisie,PEC Zwolle,Eredivisie,8/14/2019,Netherlands,,650,0,Loan
+200,Nicklas Strunck Jakobsen,20,Nordsjaelland,Superligaen,FC Groningen,Eredivisie,8/11/2019,Denmark,,450,0,?
+201,Axel Borgmann,25,VVV-Venlo,Eredivisie,Energie Cottbus,Regionalliga Nordost,8/11/2019,Germany,,175,0,Free transfer
+202,Gavin Vlijter,23,Fortuna Sittard,Eredivisie,MVV Maastricht,Keuken Kampioen Divisie,8/9/2019,Netherlands,Suriname,100,0,Free transfer
+203,Lasse Schöne,33,Ajax,Eredivisie,Genoa,Serie A,8/9/2019,Denmark,,2000,1500,
+204,João Queirós,21,1. FC Köln,Bundesliga,Willem II,Eredivisie,8/8/2019,Portugal,,450,0,Loan
+205,Rick Karsdorp,25,AS Roma,Serie A,Feyenoord,Eredivisie,8/7/2019,Netherlands,,3200,0,Loan
+206,Jeremiah St. Juste,23,Feyenoord,Eredivisie,1.FSV Mainz 05,Bundesliga,8/7/2019,Netherlands,St. Kitts & Nevis,7000,9000,
+207,George Johnston,21,Liverpool U23,Premier League 2,Feyenoord,Eredivisie,8/7/2019,Scotland,England,250,300,
+208,Ben Rienstra,29,Heerenveen,Eredivisie,Kayserispor,Süper Lig,8/7/2019,Netherlands,,550,500,
+209,Jeremy Helmer,22,AZ Alkmaar,Eredivisie,De Graafschap,Keuken Kampioen Divisie,8/7/2019,Netherlands,,475,0,Loan
+210,Paul Gladon,28,FC Groningen,Eredivisie,Willem II,Eredivisie,8/7/2019,Netherlands,,475,0,Free transfer
+211,Bilal Ould-Chikh,22,Denizlispor,Süper Lig,ADO Den Haag,Eredivisie,8/7/2019,Netherlands,Morocco,300,0,Free transfer
+212,Hennos Asmelash,20,ADO Den Haag,Eredivisie,TOP Oss,Keuken Kampioen Divisie,8/5/2019,Netherlands,Eritrea,250,0,Loan
+213,Guus Til,22,AZ Alkmaar,Eredivisie,Spartak Moscow,Premier Liga,8/5/2019,Netherlands,,9500,18000,
+214,Delano Ladan,20,ADO Den Haag,Eredivisie,SC Cambuur,Keuken Kampioen Divisie,8/5/2019,Netherlands,,175,0,Free transfer
+215,Mike Grim,23,IJsselm.vogels,Tweede Divisie,RKC Waalwijk,Eredivisie,8/5/2019,Netherlands,,25,0,Free transfer
+216,Janne Saksela,27,Sparta R.,Eredivisie,Ilves,Veikkausliiga,8/3/2019,Finland,,200,0,Free transfer
+217,Kristoffer Peterson,25,Heracles Almelo,Eredivisie,Swansea,Championship,8/2/2019,Sweden,,1600,550,
+218,Nick Hengelman,30,FC Twente,Eredivisie,Ajax Cape Town,"
+ South Africa		",8/2/2019,Netherlands,,75,0,Free transfer
+219,Ricardo van Rhijn,28,AZ Alkmaar,Eredivisie,Heerenveen,Eredivisie,8/1/2019,Netherlands,Curacao,650,0,Free transfer
+220,Indy Groothuizen,23,ADO Den Haag,Eredivisie,Vejle BK,NordicBet LIGA,7/31/2019,Netherlands,,325,0,?
+221,Michiel Kramer,31,FC Utrecht,Eredivisie,ADO Den Haag,Eredivisie,7/31/2019,Netherlands,,525,0,Free transfer
+222,Thomas Meißner,29,Willem II,Eredivisie,Puskás AFC,NB I.,7/31/2019,Germany,,525,0,?
+223,Justin Hoogma,21,TSG Hoffenheim,Bundesliga,FC Utrecht,Eredivisie,7/30/2019,Netherlands,,2300,0,Loan
+224,Sven Botman,20,Ajax U21,Keuken Kampioen Divisie,Heerenveen,Eredivisie,7/27/2019,Netherlands,,1300,0,Loan
+225,Timo Baumgartl,24,VfB Stuttgart,2. Bundesliga,PSV Eindhoven,Eredivisie,7/26/2019,Germany,,5500,10000,
+226,Yoëll van Nieff,26,Heracles Almelo,Eredivisie,Puskás AFC,NB I.,7/25/2019,Netherlands,,475,0,?
+227,Leroy Fer,30,Swansea,Championship,Feyenoord,Eredivisie,7/25/2019,Netherlands,Curacao,3500,0,Free transfer
+228,Sebastian Holmén,27,Dinamo Moscow,Premier Liga,Willem II,Eredivisie,7/24/2019,Sweden,,1700,0,Free transfer
+229,Bassala Sambou,22,Everton U23,Premier League 2,Fortuna Sittard,Eredivisie,7/23/2019,Germany,England,150,0,Free transfer
+230,Doke Schmidt,28,Heerenveen,Eredivisie,SC Cambuur,Keuken Kampioen Divisie,7/23/2019,Netherlands,,325,0,Free transfer
+231,Jizz Hornkamp,22,Heerenveen,Eredivisie,FC Den Bosch,Keuken Kampioen Divisie,7/22/2019,Netherlands,,350,0,?
+232,Jordy Clasie,28,Southampton,Premier League,AZ Alkmaar,Eredivisie,7/22/2019,Netherlands,,2400,0,Free transfer
+233,Edson Álvarez,22,América,Liga MX Clausura,Ajax,Eredivisie,7/22/2019,Mexico,,8000,15000,
+234,Keito Nakamura,19,Gamba Osaka,J1 League,FC Twente,Eredivisie,7/22/2019,Japan,,800,0,Loan
+235,Lars Nieuwpoort,25,De Graafschap,Keuken Kampioen Divisie,RKC Waalwijk,Eredivisie,7/22/2019,Netherlands,,250,0,Free transfer
+236,Édouard Duplan,36,Sparta R.,Eredivisie,Westlandia,Derde Divisie Sunday,7/22/2019,France,,100,0,Free transfer
+237,Jordy Croux,26,Willem II,Eredivisie,Roda JC,Keuken Kampioen Divisie,7/22/2019,Belgium,,350,0,Free transfer
+238,Rasmus Kristensen,22,Ajax,Eredivisie,RB Salzburg,Bundesliga,7/19/2019,Denmark,,3200,5000,
+239,Jacky Donkor,21,KSC Lokeren II,"
+ Belgium		",Fortuna Sittard,Eredivisie,7/18/2019,Belgium,Ghana,75,0,Free transfer
