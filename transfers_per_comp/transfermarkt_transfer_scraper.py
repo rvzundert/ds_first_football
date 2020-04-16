@@ -11,17 +11,19 @@ import pandas as pd
 import requests
 import time
 
-def get_transfers(comp, year=datetime.now().year):
+def get_transfers(url, year = datetime.now().year):
     
-    if(year < 1870)
-        year = 1870
+    if year < 1900:
+        year = 1900
         
+    # year = 2019
+    baseUrl = url
+    # baseUrl = 'https://www.transfermarkt.com/premier-league/transfers/wettbewerb/GB1'   
+
     transfers = []
-    while year <= 1800:
+    while year <= datetime.now().year:
         season = str(year) + '/' + str(year + 1)
-        print('Getting transfers of competition "' + comp + '" season: ' + season)
-        url = "https://www.transfermarkt.com/eredivisie/transfers/wettbewerb/"
-        url += comp
+        url = baseUrl
         url += "/plus/?saison_id="
         url += str(year)
         url += "&s_w=&leihe=1&intern=0&intern=1"
@@ -29,8 +31,9 @@ def get_transfers(comp, year=datetime.now().year):
            'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36'}
         
         page = requests.get(url, headers=headers)
-
-        soup = BeautifulSoup(page.content, 'html.parser')
+        soup = BeautifulSoup(page.content, 'html.parser')    
+        
+        country = soup.find('table', class_='profilheader').find('img').get('title')
         
         container = soup.find('div', class_='large-8 columns')
         containerBoxes = container.find_all('div', class_='box', recursive=False)
@@ -54,17 +57,17 @@ def get_transfers(comp, year=datetime.now().year):
                 continue
             
             for transferInRow in transferInRows:
-                transfers.append(process_table_row(transferInRow, 'join', teamName, season))
+                transfers.append(process_table_row(transferInRow, True, teamName, season, country))
             
             for transferOutRow in transferOutRows:
-                transfers.append(process_table_row(transferOutRow, 'leave', teamName, season))
-            
-        year += 1  
-        dataframe = pd.DataFrame(transfers)   
-         
+                transfers.append(process_table_row(transferOutRow, False, teamName, season, country))
+                
+        print('Processed transfers of season: ' + season + ' current total transfers: ' + str(len(transfers)))
+        year += 1
+        data = pd.DataFrame(transfers)        
     return pd.DataFrame(transfers)        
             
-def process_table_row(row, joinOrLeave, parsingTeam, season):
+def process_table_row(row, incoming, parsingTeam, season, country):
     
     columns = row.find_all('td')
     playerId = columns[0].find('a').get('id')
@@ -79,11 +82,19 @@ def process_table_row(row, joinOrLeave, parsingTeam, season):
     #4th is player position short
     marketValue = columns[5].get_text()
     #6th contains image from team
-    teamFromColumn = columns[7].find('a').get_text()
+    teamColumn = columns[7].find('a').get_text()
+    teamColumnImage = columns[7].find('img')
+    if teamColumnImage != None:
+        teamColumnCountry = teamColumnImage.get('title')
+    else:
+        teamColumnCountry = ''
     transferFee = columns[8].find('a').get_text()
     
-    fromTeam = teamFromColumn if joinOrLeave == 'leave' else parsingTeam
-    toTeam = teamFromColumn if joinOrLeave == 'join' else parsingTeam
+    fromTeam = teamColumn if not incoming else parsingTeam
+    toTeam = teamColumn if incoming else parsingTeam
+    
+    toCountry = country if not incoming else teamColumnCountry
+    fromCountry = country if incoming else teamColumnCountry
     
     return{
     'player_id' : playerId,
@@ -98,5 +109,8 @@ def process_table_row(row, joinOrLeave, parsingTeam, season):
     'market_value' : marketValue,
     'transfer_fee' : transferFee,
     'season' : season,
-    'transfer_direction' : 'out' if joinOrLeave == 'leave' else 'in'
+    'transfer_direction' : 'in' if incoming else 'out',
+    'international_transfer' : teamColumnCountry != country,
+    'from_country' : fromCountry,
+    'to_country' : toCountry
     }
