@@ -90,11 +90,11 @@ def process_table_row(row, incoming, parsingTeam, season, country):
         teamColumnCountry = ''
     transferFee = columns[8].find('a').get_text()
     
-    fromTeam = teamColumn if not incoming else parsingTeam
-    toTeam = teamColumn if incoming else parsingTeam
+    fromTeam = teamColumn if incoming else parsingTeam
+    toTeam = teamColumn if not incoming else parsingTeam
     
-    toCountry = country if not incoming else teamColumnCountry
-    fromCountry = country if incoming else teamColumnCountry
+    toCountry = country if incoming else teamColumnCountry
+    fromCountry = country if not incoming else teamColumnCountry
     
     return{
     'player_id' : playerId,
