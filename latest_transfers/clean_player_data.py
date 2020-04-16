@@ -27,4 +27,4 @@ data['transfer_fee_number'] = data['transfer_fee_number'].apply(lambda x: float(
 data['transfer_fee_other'] = data['transfer_fee_number'].apply(lambda x: x if isinstance(x, str) else '')
 data['transfer_fee_number'] = data['transfer_fee_number'].apply(lambda x: int(0) if isinstance(x, str) else int(x))
 data = data.drop(columns='transfer_fee')
-data.to_csv('D:/Projects/ds_first_football/transfermarkt_latest_cleaned.csv')
+data.to_csv('D:/Projects/ds_first_football/latest_transfers/transfermarkt_latest_cleaned.csv')
