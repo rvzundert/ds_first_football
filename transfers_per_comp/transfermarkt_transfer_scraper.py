@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Apr 15 23:18:53 2020
-
+https://www.transfermarkt.com/eredivisie/transfers/wettbewerb/NL1/plus/?saison_id=1987&s_w=&leihe=1&intern=0&intern=1
 @author: r.van.zundert
 """
 
@@ -12,14 +12,14 @@ import requests
 import time
 
 def get_transfers(comp, year=datetime.now().year):
-    if year < 1990:
-        year = 1990
     
-    year = 2019
-    comp='NL1'
-
+    if(year < 1870)
+        year = 1870
+        
     transfers = []
-    while year <= datetime.now().year - 1:
+    while year <= 1800:
+        season = str(year) + '/' + str(year + 1)
+        print('Getting transfers of competition "' + comp + '" season: ' + season)
         url = "https://www.transfermarkt.com/eredivisie/transfers/wettbewerb/"
         url += comp
         url += "/plus/?saison_id="
@@ -45,19 +45,36 @@ def get_transfers(comp, year=datetime.now().year):
             transfersIn = transferTables[0]
             transfersOut = transferTables[1]
             
-            for transferInRow in transfersIn.find('tbody').find_all('tr'):
-                transfers.append(process_table_row(transferInRow, 'join', teamName, year))
-
+            transferInRows = transfersIn.find('tbody').find_all('tr')
+            if len(transferInRows) == 1:
+                continue
+            
+            transferOutRows = transfersOut.find('tbody').find_all('tr')
+            if len(transferOutRows) == 1:
+                continue
+            
+            for transferInRow in transferInRows:
+                transfers.append(process_table_row(transferInRow, 'join', teamName, season))
+            
+            for transferOutRow in transferOutRows:
+                transfers.append(process_table_row(transferOutRow, 'leave', teamName, season))
+            
         year += 1  
+        dataframe = pd.DataFrame(transfers)   
+         
     return pd.DataFrame(transfers)        
             
-def process_table_row(row, joinOrLeave, parsingTeam, year):
+def process_table_row(row, joinOrLeave, parsingTeam, season):
     
     columns = row.find_all('td')
     playerId = columns[0].find('a').get('id')
     playerName = columns[0].find('a').get_text()
     playerAge = columns[1].get_text()
-    playerNationality = columns[2].find('img').get('alt')
+    nationalityColumn = columns[2].find('img')
+    if nationalityColumn != None:
+        playerNationality = nationalityColumn.get('alt')
+    else:
+        playerNationality = ''
     playerPosition = columns[3].get_text()
     #4th is player position short
     marketValue = columns[5].get_text()
@@ -80,5 +97,6 @@ def process_table_row(row, joinOrLeave, parsingTeam, year):
     # 'to_competition' : toCompetition,
     'market_value' : marketValue,
     'transfer_fee' : transferFee,
-    'season' : str(year) + '/' + str(year + 1)
+    'season' : season,
+    'transfer_direction' : 'out' if joinOrLeave == 'leave' else 'in'
     }
