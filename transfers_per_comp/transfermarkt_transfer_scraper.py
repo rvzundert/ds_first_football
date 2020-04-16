@@ -8,20 +8,15 @@ Created on Wed Apr 15 23:18:53 2020
 from datetime import datetime
 from bs4 import BeautifulSoup
 import pandas as pd
-from selenium import webdriver
+import requests
 import time
 
 def get_transfers(comp, year=datetime.now().year):
     if year < 1990:
         year = 1990
     
-    options = webdriver.ChromeOptions()
-    # options.add_argument('headless')
-
-    driver = webdriver.Chrome(executable_path='D:/Projects/ds_first_football/chromedriver.exe', options=options)
-
-    # year = 2015
-    # comp='NL1'
+    year = 2019
+    comp='NL1'
 
     transfers = []
     while year <= datetime.now().year - 1:
@@ -30,13 +25,12 @@ def get_transfers(comp, year=datetime.now().year):
         url += "/plus/?saison_id="
         url += str(year)
         url += "&s_w=&leihe=1&intern=0&intern=1"
+        headers = {'User-Agent': 
+           'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.106 Safari/537.36'}
         
-        driver.get(url)
-        
-        print('Waiting 15 seconds to open season ' + str(year) + '/' + str(year + 1))
-        time.sleep(15)
+        page = requests.get(url, headers=headers)
 
-        soup = BeautifulSoup(driver.page_source, 'html.parser')
+        soup = BeautifulSoup(page.content, 'html.parser')
         
         container = soup.find('div', class_='large-8 columns')
         containerBoxes = container.find_all('div', class_='box', recursive=False)
